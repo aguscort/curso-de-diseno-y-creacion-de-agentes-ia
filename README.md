@@ -1,3 +1,6 @@
+
+![Titulo](/../img/banner.png)
+
 # Curso en Diseño y Creación de Agentes Inteligentes
 ## Año 1
 ### Semestre 1
