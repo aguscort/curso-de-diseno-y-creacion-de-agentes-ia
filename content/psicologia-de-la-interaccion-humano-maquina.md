@@ -4,7 +4,7 @@
 
 Esta asignatura es esencial para comprender cómo los seres humanos interactúan con los agentes y cómo diseñar agentes que respondan de manera creíble y eficaz.
 
-## [Temario Propuesto:](Psicologi%CC%81a%20de%20la%20Interaccio%CC%81n%20Humano-Ma%CC%81quina%20daab2ae4bd784961b267eef35aaae409/Temario%20Propuesto%20d19bb1d4f3674997a579e7edeae7d78c.md)
+## [Temario Propuesto:](psicologia-de-la-interaccion-humano-maquina/temario-propuesto.md)
 
 1. **Principios de Interacción Humano-Máquina:**
 a. Fundamentos de la psicología cognitiva

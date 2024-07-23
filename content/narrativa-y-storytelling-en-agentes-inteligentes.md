@@ -4,7 +4,7 @@
 
 La narrativa y el storytelling son elementos cruciales en la creación de agentes creíbles que puedan comunicarse de manera efectiva y emotiva con los usuarios. Esta asignatura explora cómo aplicar técnicas narrativas para mejorar la interacción con agentes.
 
-## [Temario Propuesto:](Narrativa%20y%20Storytelling%20en%20Agentes%20Inteligentes%2072caa39b2bb245bfaa3150364cc85b3a/Temario%20Propuesto%20b8673f9f2a83413bb2b3ea1063c2220f.md)
+## [Temario Propuesto:](narrativa-y-storytelling-en-agentes-inteligentes/temario-propuesto.md)
 
 1. **Fundamentos de Narrativa y Storytelling:**
 a. Elementos y estructuras de la narrativa

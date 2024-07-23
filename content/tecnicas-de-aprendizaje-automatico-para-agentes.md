@@ -4,7 +4,7 @@
 
 El aprendizaje automático es esencial en el diseño de agentes creíbles, ya que permite que los agentes aprendan y se adapten a partir de los datos y la experiencia. Esta asignatura proporcionará a los estudiantes una comprensión sólida de las técnicas de aprendizaje automático aplicadas a agentes inteligentes.
 
-## [Temario Propuesto:](Te%CC%81cnicas%20de%20Aprendizaje%20Automa%CC%81tico%20para%20Agentes%208e09a06126134b5aa693878846c963b5/Temario%20Propuesto%2081707fd80ccc4707b5cffa2b0b9755f5.md)
+## [Temario Propuesto:](tecnicas-de-aprendizaje-automatico-para-agentes/temario-propuesto.md)
 
 1. **Fundamentos de Aprendizaje Automático:**
 a. Supervisado, no supervisado y aprendizaje por refuerzo
