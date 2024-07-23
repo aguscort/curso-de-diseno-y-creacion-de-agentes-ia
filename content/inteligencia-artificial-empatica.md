@@ -104,8 +104,8 @@ La asignatura "Inteligencia Artificial Empática" se justifica por la creciente 
     - Serban et al., 2015: "Hierarchical Neural Network Generative Models for Movie Dialogues."
     - Rashkin et al., 2019: "Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset."
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:

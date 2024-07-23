@@ -41,16 +41,16 @@ Desarrollar un modelo de agentes que simule la propagación de una enfermedad en
 
 - "Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations" por Yoav Shoham y Kevin Leyton-Brown.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Artificial Intelligence: A Modern Approach" por Stuart Russell y Peter Norvig.
 - "Agent-Based and Individual-Based Modeling: A Practical Introduction" por Steven F. Railsback y Volker Grimm.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Multi-Agent Systems" ofrecido por edX.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dra. Carmen Vidal**
 - **Breve Biografía:** La Dra. Carmen Vidal es una destacada investigadora en el Instituto de Robótica e Informática Industrial de Barcelona. Su trabajo en el modelado y simulación de agentes ha llevado a innovaciones en áreas como la inteligencia artificial distribuida y los sistemas multiagente. Ha colaborado en proyectos internacionales y es autora de varios libros y artículos en su campo.

@@ -41,16 +41,16 @@ Utilizar técnicas de procesamiento de señales y aprendizaje automático para a
 
 - "Affective Computing" por Rosalind W. Picard.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Emotion Recognition: A Pattern Analysis Approach" por Arvind K. Bansal et al.
 - "The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind" por Marvin Minsky.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Emotion and Cognition in the Age of AI" ofrecido por edX.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dra. Isabel Martínez**
 - **Breve Biografía:** La Dra. Isabel Martínez es profesora en la Universidad de Málaga y una destacada experta en análisis de emociones y comportamiento humano. Su investigación se ha centrado en el reconocimiento de emociones y el diseño de agentes empáticos, contribuyendo significativamente al campo de la informática afectiva.

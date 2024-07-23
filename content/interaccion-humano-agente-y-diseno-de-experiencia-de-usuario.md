@@ -41,16 +41,16 @@ Diseñar una aplicación móvil en Sketch y prototiparla en Figma que incluye un
 
 - "The Design of Everyday Things" por Don Norman.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Don't Make Me Think: A Common Sense Approach to Web Usability" por Steve Krug.
 - "Interaction Design: Beyond Human-Computer Interaction" por Jenny Preece, Helen Sharp y Yvonne Rogers.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Human-Computer Interaction – UX Design" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Fernando García**
 - **Breve Biografía:** El Dr. Fernando García es profesor en la Universidad de Sevilla y un líder en el campo de la interacción humano-agente y el diseño de experiencia de usuario. Ha trabajado extensamente en la aplicación de principios de UX en el diseño de agentes y sistemas interactivos, con un enfoque en la accesibilidad y la inclusión.

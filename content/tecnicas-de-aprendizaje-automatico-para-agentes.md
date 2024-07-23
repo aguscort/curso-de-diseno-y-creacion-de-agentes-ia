@@ -41,16 +41,16 @@ Aprendizaje automático, aprendizaje por refuerzo, redes neuronales, algoritmos 
 
 - "Pattern Recognition and Machine Learning" por Christopher M. Bishop.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Deep Learning" por Ian Goodfellow, Yoshua Bengio, y Aaron Courville.
 - "Reinforcement Learning: An Introduction" por Richard S. Sutton y Andrew G. Barto.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Deep Learning Specialization" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Marta González**
 - **Breve Biografía:** La Dra. Marta González es profesora en la Universidad Carlos III de Madrid. Es una experta en aprendizaje automático y sus aplicaciones en agentes inteligentes. Su investigación se centra en técnicas avanzadas como el aprendizaje por refuerzo y el aprendizaje multiagente.

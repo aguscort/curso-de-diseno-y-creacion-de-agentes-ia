@@ -53,13 +53,13 @@ Utilizar GANs (Redes Antagónicas Generativas) para generar imágenes de rostros
 
 - "Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play" por David Foster.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Deep Learning" por Ian Goodfellow, Yoshua Bengio, y Aaron Courville.
 - "Neural Networks and Deep Learning: A Textbook" por Charu Aggarwal.
 - "GANs in Action: Deep learning with Generative Adversarial Networks" por Jakub Langr y Vladimir Bok.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Deep Learning Specialization" por Andrew Ng en Coursera.
 

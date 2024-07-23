@@ -41,16 +41,16 @@ Implementar y entrenar un agente de aprendizaje por refuerzo para jugar un juego
 
 - "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence" por Jacques Ferber.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Distributed Artificial Intelligence: A Modern Approach" por Huhns and Singh.
 - "Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations" por Yoav Shoham y Kevin Leyton-Brown.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Multi-Agent Systems: Algorithms, Complexity, and Networks" ofrecido por edX.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Ignacio Durán**
 - **Breve Biografía:** El Dr. Ignacio Durán es profesor en la Universidad Politécnica de Valencia y un experto reconocido en Inteligencia Artificial Distribuida y sistemas multiagente. Ha liderado varios proyectos de investigación y ha sido ponente en conferencias internacionales. Su trabajo en la aplicación de sistemas multiagente en diferentes campos es altamente influyente.

@@ -41,16 +41,16 @@ Usar Dialogflow y Google Text-to-Speech para crear un agente virtual que pueda r
 
 - "Speech and Language Processing" por Dan Jurafsky y James H. Martin.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Natural Language Processing in Python" por DataCamp.
 - "Handbook of Speech Processing" por Jacob Benesty, M. Mohan Sondhi, y Yiteng Huang.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Natural Language Processing Specialization" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dra. Lucía Méndez**
 - **Breve Biografía:** La Dra. Lucía Méndez es una destacada experta en procesamiento del lenguaje natural y tecnologías de voz. Es profesora en la Universidad de Granada y ha trabajado en proyectos innovadores en el campo de la lingüística computacional y la comunicación humano-máquina. Su enfoque interdisciplinario y su compromiso con la ética en la tecnología la convierten en una figura prominente en su campo.

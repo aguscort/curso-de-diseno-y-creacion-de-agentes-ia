@@ -41,16 +41,16 @@ Usar Python y librerías como NumPy para simular un escenario de evacuación de 
 
 - "Modeling and Simulating Human Teamwork Behaviors" por Xiaocong Fan.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Social, Ethical and Policy Implications of Artificial Intelligence" por M. Ryan (Ed.).
 - "The Human Use of Human Beings: Cybernetics and Society" por Norbert Wiener.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Understanding and Visualizing Data with Python" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. José Martín**
 - **Breve Biografía:** El Dr. José Martín es profesor en la Universidad de Barcelona, con una rica trayectoria en el análisis y modelado del comportamiento humano. Su investigación se centra en cómo las máquinas pueden entender y simular el comportamiento humano, contribuyendo a numerosos proyectos interdisciplinarios en este campo.

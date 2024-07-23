@@ -41,16 +41,16 @@ Utilizar herramientas de seguimiento ocular y encuestas a 30 participantes para 
 
 - "Evaluating Interactive Systems: A Comprehensive Guide" por Gilbert Cockton et al.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics" por Tom Tullis and Bill Albert.
 - "Practical Evaluation and Testing of Interactive Systems" por Pierre Goulette.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Usability Testing and Evaluation" ofrecido por edX.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Javier Sánchez**
 - **Breve Biografía:** El Dr. Javier Sánchez es profesor en la Universidad Politécnica de Valencia y experto en evaluación y validación de sistemas interactivos. Ha trabajado en la industria y en la academia, contribuyendo a la metodología y mejores prácticas en el campo.

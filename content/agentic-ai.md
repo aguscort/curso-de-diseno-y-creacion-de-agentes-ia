@@ -12,8 +12,8 @@
 
 ## Bibliografía Obligatoria:
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:

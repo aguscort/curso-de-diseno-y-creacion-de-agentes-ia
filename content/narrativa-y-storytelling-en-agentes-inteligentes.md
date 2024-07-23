@@ -43,16 +43,16 @@ Crear un breve cuento interactivo utilizando Twine, donde un agente inteligente 
 
 - "Interactive Storytelling for Video Games" por Josiah Lebowitz y Chris Klug.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Storytelling with Data: A Data Visualization Guide for Business Professionals" por Cole Nussbaumer Knaflic.
 - "Writing Interactive Fiction with Twine" por Melissa Ford.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences" ofrecido por FutureLearn.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Alberto Sánchez**
 - **Breve Biografía:** El Dr. Alberto Sánchez es profesor en la Universidad Pompeu Fabra en Barcelona. Es un experto reconocido en narrativa interactiva y storytelling aplicado a la tecnología. Su trabajo ha sido fundamental en el diseño de experiencias narrativas para videojuegos, educación y agentes inteligentes.

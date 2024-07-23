@@ -35,16 +35,16 @@ Elegir un caso real en el que un agente virtual haya generado controversia, real
 
 - "Artificial Intelligence and Ethics" por Paula Boddington.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy" por Cathy O'Neil.
 - "Robot Ethics 2.0: From Autonomous Cars to Artificial Intelligence" por Patrick Lin et al.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "AI Ethics" ofrecido por edX.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Rafael Torres**
 - **Breve Biografía:** El Dr. Rafael Torres es un prominente académico en la Universidad de Salamanca, especializado en ética y legislación en tecnologías emergentes. Ha trabajado como consultor legal y ético en proyectos relacionados con la inteligencia artificial y ha publicado extensamente en temas de privacidad, responsabilidad y regulación.

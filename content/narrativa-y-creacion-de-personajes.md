@@ -41,16 +41,16 @@ Usar un motor de videojuegos como Unity para crear una escena en la que tres per
 
 - "Character Development and Storytelling for Games" por Lee Sheldon.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller" por John Truby.
 - "Interactive Storytelling: Techniques for 21st Century Fiction" por Andrew Glassner.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Story and Narrative Development for Video Games" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. Álvaro Fernández**
 - **Breve Biografía:** El Dr. Álvaro Fernández es profesor en la Universidad Politécnica de Madrid y especialista en narrativa digital e interactiva. Sus investigaciones y publicaciones han abordado la creación de personajes y narrativas en juegos, animaciones, y agentes virtuales. Es reconocido por su enfoque ético e inclusivo en la representación y diseño de personajes.

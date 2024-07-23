@@ -41,16 +41,16 @@ Utilizar un motor de IA como TensorFlow para entrenar un agente en un videojuego
 
 - "Emotion Modeling: Towards Pragmatic Computational Models of Affective Processes" por Sidney D'Mello et al.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "Affective Computing" por Rosalind Picard.
 - "Handbook of Affective Computing" por Rafael Calvo et al.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Emotional Intelligence at Work" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dra. Isabel Martínez**
 - **Breve Biografía:** La Dra. Isabel Martínez es profesora en la Universidad Complutense de Madrid y experta en el modelado de emociones y comportamiento en agentes inteligentes. Ha contribuido en áreas como la interacción emocional, la salud mental y la tecnología educativa.

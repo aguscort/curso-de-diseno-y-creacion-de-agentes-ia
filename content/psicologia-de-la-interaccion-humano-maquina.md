@@ -41,16 +41,16 @@ Implementar un chatbot con técnicas de terapia cognitivo-conductual. Realizar u
 
 - "Designing with the Mind in Mind" por Jeff Johnson.
 
-**Bibliografía Recomendada:**
+## Bibliografía Recomendada:
 
 - "The Design of Everyday Things" por Don Norman.
 - "Emotion and Adaptation in Digital Talk Agents" por Catherine Pelachaud.
 
-**Mejor Curso Online:**
+## Mejor Curso Online:
 
 - "Human-Computer Interaction" ofrecido por Coursera.
 
-**Docente Español Propuesto:**
+## Docente Español Propuesto:
 
 - **Profesor: Dr. José Antonio Martínez**
 - **Breve Biografía:** El Dr. José Antonio Martínez es profesor titular en el Departamento de Informática de la Universidad de Barcelona. Tiene una amplia experiencia en la interacción humano-máquina y ha publicado numerosos artículos en este campo. Su investigación se centra en cómo los seres humanos interactúan con los sistemas computacionales, y ha sido un pionero en estudiar cómo diseñar agentes que respondan de manera creíble y ética.
