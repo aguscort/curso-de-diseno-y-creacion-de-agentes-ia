@@ -4,7 +4,7 @@
 
 Esta asignatura cubre los conceptos y técnicas necesarios para diseñar y desarrollar sistemas multiagente y proporciona una comprensión profunda de cómo los agentes pueden trabajar juntos de manera inteligente y cohesiva.
 
-[## Temario Propuesto:](Inteligencia%20Artificial%20Distribuida%20y%20Sistemas%20Mul%20c0e49e5e8a5048c1bb1e138b49783326/Temario%20Propuesto%20dc1722a749a24ecb8f7f631352161d24.md)
+## [Temario Propuesto:](Inteligencia%20Artificial%20Distribuida%20y%20Sistemas%20Mul%20c0e49e5e8a5048c1bb1e138b49783326/Temario%20Propuesto%20dc1722a749a24ecb8f7f631352161d24.md)
 
 1. **Introducción a la Inteligencia Artificial Distribuida:**
 a. Conceptos y paradigmas

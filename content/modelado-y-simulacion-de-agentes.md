@@ -4,7 +4,7 @@
 
 Esta asignatura proporciona los fundamentos teóricos y prácticos necesarios para modelar y simular agentes. Se centra en las técnicas de representación, razonamiento, y comunicación que son fundamentales para el diseño de agentes creíbles.
 
-[## Temario Propuesto:](Modelado%20y%20Simulacio%CC%81n%20de%20Agentes%20f89b66069aa140cf8682b8598bfaa94a/Temario%20Propuesto%2008c623bd1f9d429297e2f4cc365aa501.md)
+## [Temario Propuesto:](Modelado%20y%20Simulacio%CC%81n%20de%20Agentes%20f89b66069aa140cf8682b8598bfaa94a/Temario%20Propuesto%2008c623bd1f9d429297e2f4cc365aa501.md)
 
 1. **Modelado de Agentes:**
 a. Representación de agentes
