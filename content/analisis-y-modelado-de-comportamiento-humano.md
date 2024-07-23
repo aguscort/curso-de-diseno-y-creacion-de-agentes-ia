@@ -1,10 +1,10 @@
 # Análisis y Modelado de Comportamiento Humano
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura se centra en el entendimiento del comportamiento humano para crear agentes que puedan interactuar de manera más natural y eficiente. Comprender cómo piensan, sienten y actúan los seres humanos es esencial para el diseño de agentes creíbles.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Introducción a la Psicología Humana:**
 a. Teorías de la personalidad y comportamiento
@@ -19,17 +19,17 @@ a. Métodos de evaluación y medición
 b. Análisis de la eficacia del modelo
 c. Ética en el análisis y modelado del comportamiento
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Psicología humana, modelado del comportamiento, simulación, interacción social y cultural, ética en el modelado.
 
-**Proyecto Final**:
+## Proyecto Final:
 
 Creación de un modelo computacional que prediga comportamientos humanos en una situación específica. 
 
 Usar Python y librerías como NumPy para simular un escenario de evacuación de edificio y aplicar algoritmos de aprendizaje automático para predecir rutas óptimas.
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Precisión y validez del modelo (30%)
 2. Aplicabilidad práctica (25%)
@@ -37,7 +37,7 @@ Usar Python y librerías como NumPy para simular un escenario de evacuación de 
 4. Análisis de datos (15%)
 5. Presentación y defensa (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Modeling and Simulating Human Teamwork Behaviors" por Xiaocong Fan.
 

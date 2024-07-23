@@ -1,10 +1,10 @@
 # Psicología de la Interacción Humano-Máquina
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura es esencial para comprender cómo los seres humanos interactúan con los agentes y cómo diseñar agentes que respondan de manera creíble y eficaz.
 
-[**Temario Propuesto:**](Psicologi%CC%81a%20de%20la%20Interaccio%CC%81n%20Humano-Ma%CC%81quina%20daab2ae4bd784961b267eef35aaae409/Temario%20Propuesto%20d19bb1d4f3674997a579e7edeae7d78c.md)
+[## Temario Propuesto:](Psicologi%CC%81a%20de%20la%20Interaccio%CC%81n%20Humano-Ma%CC%81quina%20daab2ae4bd784961b267eef35aaae409/Temario%20Propuesto%20d19bb1d4f3674997a579e7edeae7d78c.md)
 
 1. **Principios de Interacción Humano-Máquina:**
 a. Fundamentos de la psicología cognitiva
@@ -19,17 +19,17 @@ a. Aspectos legales y éticos
 b. Privacidad y seguridad
 c. Diseño inclusivo y accesibilidad
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Psicología cognitiva, interacción humano-máquina, diseño de interfaces, simulación de emociones, ética en la tecnología.
 
-**Proyecto Final**: 
+## Proyecto Final: 
 
 Creación de un modelo computacional que prediga comportamientos humanos en una situación específica.
 
 Implementar un chatbot con técnicas de terapia cognitivo-conductual. Realizar un experimento con 50 participantes para medir la efectividad usando métricas como el nivel de estrés antes y después de la interacción.
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Precisión y validez del modelo (30%)
 2. Aplicabilidad práctica (25%)
@@ -37,7 +37,7 @@ Implementar un chatbot con técnicas de terapia cognitivo-conductual. Realizar u
 4. Análisis de datos (15%)
 5. Presentación y defensa (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Designing with the Mind in Mind" por Jeff Johnson.
 

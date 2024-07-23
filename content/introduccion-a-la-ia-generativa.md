@@ -4,7 +4,7 @@
 
 La inteligencia artificial (IA) generativa es un subcampo emergente de la IA que se centra en crear nuevos contenidos o modelos a partir de conjuntos de datos existentes. Esta área combina elementos del aprendizaje profundo, aprendizaje automático, y otros campos relacionados para producir resultados que pueden ser indistinguibles de los creados por humanos. Dada la creciente relevancia de la IA generativa en sectores como las artes, la medicina, la ingeniería y más, es fundamental que los estudiantes adquieran una comprensión sólida de sus principios y técnicas.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos de la IA Generativa**
     - Introducción a la IA generativa
@@ -31,17 +31,17 @@ La inteligencia artificial (IA) generativa es un subcampo emergente de la IA que
     - Uso responsable y consideraciones legales
     - Desafíos y soluciones en la aplicación de IA generativa
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Modelos Generativos, Redes Generativas Adversarias (GANs), Transformadores, Autoencoders, Ética en IA Generativa, Validación y Evaluación.
 
-**Proyecto Final**: 
+## Proyecto Final: 
 
 Creación de una obra de arte o narrativa generada mediante técnicas de IA.
 
 Utilizar GANs (Redes Antagónicas Generativas) para generar imágenes de rostros que expresan emociones específicas. Evaluar la calidad mediante métricas como FID (Frechet Inception Distance).
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Presentación (10%)
 2. Documentación y explicación del proceso (15%)
@@ -49,7 +49,7 @@ Utilizar GANs (Redes Antagónicas Generativas) para generar imágenes de rostros
 4. Creatividad y originalidad (25%)
 5. Calidad técnica del proyecto (30%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play" por David Foster.
 

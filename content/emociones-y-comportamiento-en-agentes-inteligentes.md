@@ -1,10 +1,10 @@
 # Emociones y Comportamiento en Agentes Inteligentes
 
-J**ustificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura aborda cómo modelar y simular emociones y comportamientos en agentes inteligentes. Es vital para crear agentes creíbles que puedan interactuar de manera más humana y realista.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos de Emociones y Comportamiento:**
 a. Teorías psicológicas de las emociones
@@ -19,17 +19,17 @@ a. Implementación de modelos emocionales
 b. Evaluación de la interacción emocional
 c. Estudios de caso en entretenimiento, salud y educación
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Modelado de emociones, comportamiento humano, interacción emocional, reconocimiento de emociones.
 
-**Proyecto Final**:
+## Proyecto Final:
 
 Implementación de un agente creíble con emociones y comportamientos adaptativos.
 
 Utilizar un motor de IA como TensorFlow para entrenar un agente en un videojuego que cambie su comportamiento en función de cinco emociones básicas (alegría, tristeza, ira, miedo, sorpresa)?
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Autenticidad emocional (30%)
 2. Adaptabilidad del agente (25%)
@@ -37,7 +37,7 @@ Utilizar un motor de IA como TensorFlow para entrenar un agente en un videojuego
 4. Documentación y análisis (15%)
 5. Presentación y defensa (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Emotion Modeling: Towards Pragmatic Computational Models of Affective Processes" por Sidney D'Mello et al.
 

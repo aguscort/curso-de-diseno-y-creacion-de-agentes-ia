@@ -1,10 +1,10 @@
 # Interacción Humano-Agente y Diseño de Experiencia de Usuario
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura se enfoca en cómo diseñar agentes que interactúen eficazmente con los humanos, considerando aspectos críticos de la experiencia de usuario (UX) y la interacción humano-computadora (IHC).
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos de Interacción Humano-Computadora:**
 a. Principios y directrices de IHC
@@ -19,17 +19,17 @@ a. Agentes como socios sociales
 b. Reconocimiento y expresión de emociones
 c. Aspectos éticos y culturales
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Interacción Humano-Computadora, Experiencia de Usuario, diseño centrado en el usuario, interacción social y emocional, ética en la interacción.
 
-**Proyecto Final**: 
+## Proyecto Final: 
 
 Desarrollo y evaluación de una experiencia de usuario completa con un agente creíble.
 
 Diseñar una aplicación móvil en Sketch y prototiparla en Figma que incluye un agente virtual que utiliza algoritmos de priorización para ayudar a los usuarios a gestionar sus tareas.
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Diseño de UX (30%)
 2. Calidad de la interacción humano-agente (25%)
@@ -37,7 +37,7 @@ Diseñar una aplicación móvil en Sketch y prototiparla en Figma que incluye un
 4. Documentación y análisis (15%)
 5. Presentación y defensa (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "The Design of Everyday Things" por Don Norman.
 

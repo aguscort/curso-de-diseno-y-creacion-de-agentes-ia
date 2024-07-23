@@ -1,10 +1,10 @@
 # Comunicación Natural, Tecnologías de Voz y Procesamiento del Lenguaje en Agentes
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura aborda la tecnología esencial detrás de la comunicación verbal y escrita de los agentes, una clave en la creación de agentes creíbles que puedan interactuar de manera natural y convincente con los humanos.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos del Procesamiento del Lenguaje Natural (PLN):**
 a. Lingüística computacional
@@ -19,17 +19,17 @@ a. Chatbots y asistentes virtuales
 b. Análisis de sentimientos
 c. Consideraciones éticas y de privacidad
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Procesamiento del Lenguaje Natural, reconocimiento de voz, síntesis de voz, lingüística computacional, ética en PLN.
 
-**Proyecto Final**: 
+## Proyecto Final: 
 
 Desarrollo de un agente creíble que pueda interactuar usando voz y texto de forma natural.
 
 Usar Dialogflow y Google Text-to-Speech para crear un agente virtual que pueda responder a preguntas frecuentes y transferir la conversación a un operador humano mediante una señal de alerta.
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Naturalidad y fluidez en la comunicación (30%)
 2. Implementación técnica (25%)
@@ -37,7 +37,7 @@ Usar Dialogflow y Google Text-to-Speech para crear un agente virtual que pueda r
 4. Documentación y análisis (15%)
 5. Presentación y defensa (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Speech and Language Processing" por Dan Jurafsky y James H. Martin.
 

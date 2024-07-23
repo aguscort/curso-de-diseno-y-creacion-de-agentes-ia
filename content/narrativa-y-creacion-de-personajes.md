@@ -1,10 +1,10 @@
 # Narrativa y Creación de Personajes
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura es vital para quienes diseñan agentes creíbles, ya que se centra en cómo se puede utilizar la narrativa y la creación de personajes para lograr una interacción convincente y realista.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos de Narrativa:**
 a. Elementos de la narrativa
@@ -19,17 +19,17 @@ a. Representación y diversidad
 b. Narrativa persuasiva y manipulativa
 c. Impacto social y cultural de las narrativas
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Narrativa, creación de personajes, narración no lineal, animación, ética en la narración, diversidad en la representación.
 
-**Proyecto Final**: 
+## Proyecto Final: 
 
 Diseño y desarrollo de personajes para un juego o simulación interactiva.
 
 Usar un motor de videojuegos como Unity para crear una escena en la que tres personajes con backstories predefinidos tomen una decisión moral. Deben existir al menos tres resultados diferentes basados en la decisión tomada.
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Profundidad y coherencia del personaje (30%)
 2. Integración en la narrativa (25%)
@@ -37,7 +37,7 @@ Usar un motor de videojuegos como Unity para crear una escena en la que tres per
 4. Documentación del desarrollo (15%)
 5. Presentación y defensa (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Character Development and Storytelling for Games" por Lee Sheldon.
 

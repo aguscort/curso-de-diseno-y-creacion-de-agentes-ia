@@ -25,9 +25,8 @@
 [Psicología de la Interacción Humano-Máquina](content/psicologia-de-la-interaccion-humano-maquina.md)
     
 
-## [Año 2](https://www.udemy.com/course/draft/5856402/?instructorPreviewMode=guest):
-
-### Semestre 3:
+## Año 2
+### Semestre 3
     
 [Fundamentos de LLMOps](content/fundamentos-de-llmops.md)
     
@@ -37,7 +36,7 @@
     
 [Inteligencia Artificial Empática](content/inteligencia-artificial-empatica.md)
     
-### Semestre 4:
+### Semestre 4
     
 [Interacción Humano-Agente y Diseño de Experiencia de Usuario](content/interaccion-humano-agente-y-diseno-de-experiencia-de-usuario.md)
     

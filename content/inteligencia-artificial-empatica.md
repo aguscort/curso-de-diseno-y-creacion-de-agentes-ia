@@ -1,10 +1,10 @@
 # Inteligencia Artificial Empática
 
-J**ustificación en el Temario:**
+## Justificación en el Temario:
 
 La asignatura "Inteligencia Artificial Empática" se justifica por la creciente necesidad de sistemas de inteligencia artificial (IA) que puedan interactuar con humanos de manera natural y sensible a sus estados emocionales. En un mundo donde la IA se integra cada vez más en nuestra vida cotidiana, la capacidad de generar respuestas que muestren comprensión y consideración por las emociones humanas es fundamental. Esta asignatura dotará a los estudiantes de habilidades cruciales para diseñar, implementar y evaluar sistemas de IA que puedan participar en diálogos significativos y empáticos, preparándolos para contribuir en campos como asistentes virtuales, atención al cliente automatizada, terapia asistida por IA, y más. Integrar esta asignatura en el plan de estudios atiende a una demanda emergente de tecnologías más humanas y accesibles, fomentando innovaciones que mejoran la interacción humano-computadora.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos de la Inteligencia Artificial Empática**
     - Introducción a la IA y NLP.
@@ -23,15 +23,15 @@ La asignatura "Inteligencia Artificial Empática" se justifica por la creciente 
     - Impacto social de la IA empática en diversos sectores.
     - Futuro de la interacción humano-computadora y el papel de la empatía en IA.
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 - **Empatía en IA:** Entendimiento de las emociones humanas y su aplicación en respuestas generadas por IA.
 - **Procesamiento del Lenguaje Natural (NLP):** Técnicas para que las máquinas comprendan y generen lenguaje humano.
 - **Aprendizaje Profundo:** Uso de redes neuronales profundas para modelar y generar respuestas empáticas.
 
-**Proyecto Final**:
+## Proyecto Final:
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 ### **📚 Fundamentos de Generación de Respuestas Empáticas**
 

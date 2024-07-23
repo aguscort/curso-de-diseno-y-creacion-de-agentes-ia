@@ -1,10 +1,10 @@
 # Ética y Legislación en Inteligencia Artificial y Agentes Virtuales
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Esta asignatura es esencial para comprender y aplicar los principios éticos, así como las leyes y regulaciones que rigen la creación y uso de agentes inteligentes y virtuales.
 
-**Temario Propuesto:**
+## Temario Propuesto:
 
 1. **Fundamentos de Ética en Inteligencia Artificial:**
 a. Principios éticos y teorías
@@ -19,7 +19,7 @@ a. Estudios de caso en industrias específicas
 b. Desarrollo responsable de agentes
 c. Consideraciones culturales y sociales
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Ética en IA, legislación y regulación, responsabilidad, protección de datos, derechos de propiedad intelectual.
 
@@ -31,7 +31,7 @@ Los alumnos tendrán que elegir un agente creíble existente o conceptual y real
 
 Elegir un caso real en el que un agente virtual haya generado controversia, realizar un análisis ético y legal utilizando al menos tres marcos teóricos y proponer una serie de directrices y regulaciones.
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Artificial Intelligence and Ethics" por Paula Boddington.
 

@@ -1,10 +1,10 @@
 # Análisis de Emociones y Comportamiento Humano
 
-**Justificación en el Temario:**
+## Justificación en el Temario:
 
 Para crear agentes creíbles, es fundamental comprender y analizar las emociones y el comportamiento humano. Esta asignatura se centra en cómo los agentes pueden reconocer y responder a las emociones humanas, creando una interacción más empática y realista.
 
-[**Temario Propuesto:**](Ana%CC%81lisis%20de%20Emociones%20y%20Comportamiento%20Humano%201c91a156aa3b4968a3e608292165e72b/Temario%20Propuesto%206849ef9e417b4a1098370b9f411db571.md)
+[## Temario Propuesto:](Ana%CC%81lisis%20de%20Emociones%20y%20Comportamiento%20Humano%201c91a156aa3b4968a3e608292165e72b/Temario%20Propuesto%206849ef9e417b4a1098370b9f411db571.md)
 
 1. **Introducción a la Psicología de las Emociones:**
 a. Teorías de las emociones
@@ -19,17 +19,17 @@ a. Modelado de personalidad y emociones en agentes
 b. Agentes empáticos y asistentes emocionales
 c. Ética y sensibilidad en la respuesta emocional
 
-**Conceptos Clave:**
+## Conceptos Clave:
 
 Emociones, análisis de comportamiento humano, reconocimiento de emociones, agentes empáticos.
 
-**Proyecto Final**: 
+## Proyecto Final: 
 
 Implementación de un sistema que pueda analizar y reaccionar a las emociones y comportamientos humanos en tiempo real.
 
 Utilizar técnicas de procesamiento de señales y aprendizaje automático para analizar datos de un wearable (por ejemplo, un Apple Watch) y predecir estados emocionales.
 
-**Criterios de Evaluación**:
+## Criterios de Evaluación:
 
 1. Precisión en la detección de emociones/comportamientos (30%)
 2. Utilidad y aplicabilidad del sistema (25%)
@@ -37,7 +37,7 @@ Utilizar técnicas de procesamiento de señales y aprendizaje automático para a
 4. Documentación técnica (15%)
 5. Presentación y explicación (10%)
 
-**Bibliografía Obligatoria:**
+## Bibliografía Obligatoria:
 
 - "Affective Computing" por Rosalind W. Picard.
 
