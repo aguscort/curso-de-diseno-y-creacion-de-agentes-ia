@@ -7,13 +7,11 @@ La asignatura "Inteligencia Artificial Empática" se justifica por la creciente 
 ## Temario Propuesto:
 
 1. **Fundamentos de la Inteligencia Artificial Empática**
-    - Introducción a la IA y NLP.
     - Principios de la empatía en la comunicación humana.
-    - Diferencia entre emoción, sentimiento y estados afectivos.
+    - *La introducción a la IA y al NLP se cubre en [Introducción a la IA Generativa](introduccion-a-la-ia-generativa.md) y en [Comunicación Natural, Tecnologías de Voz y Procesamiento del Lenguaje en Agentes](comunicacion-natural-tecnologias-de-voz-y-procesamiento-del-lenguaje.md); la diferencia entre emoción, sentimiento y estados afectivos, en [Computación Afectiva](computacion-afectiva.md).*
 2. **Técnicas y Herramientas para el Análisis de Emociones**
-    - Extracción y análisis de emociones en texto.
     - Uso de lexicones afectivos y modelos de clasificación de emociones.
-    - Aplicaciones del aprendizaje automático y aprendizaje profundo en el análisis de sentimientos.
+    - *La extracción y el análisis de emociones en texto se tratan en [Computación Afectiva](computacion-afectiva.md); las aplicaciones del aprendizaje automático y del aprendizaje profundo al análisis de sentimientos, en [Comunicación Natural, Tecnologías de Voz y Procesamiento del Lenguaje en Agentes](comunicacion-natural-tecnologias-de-voz-y-procesamiento-del-lenguaje.md).*
 3. **Diseño y Desarrollo de Sistemas de Diálogo Empáticos**
     - Modelado de diálogos empáticos y generación de respuestas.
     - Estudio de casos: asistentes virtuales, soporte al cliente, y terapia asistida por IA.

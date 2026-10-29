@@ -2,26 +2,24 @@
 
 ## Justificación en el Temario:
 
-Esta asignatura proporciona los fundamentos teóricos y prácticos necesarios para modelar y simular agentes. Se centra en las técnicas de representación, razonamiento, y comunicación que son fundamentales para el diseño de agentes creíbles.
+Esta asignatura proporciona los fundamentos teóricos y prácticos necesarios para modelar y simular agentes. Se centra en las técnicas de representación, razonamiento y simulación que son fundamentales para el diseño de agentes creíbles.
 
 ## [Temario Propuesto:](modelado-y-simulacion-de-agentes/temario-propuesto.md)
 
 1. **Modelado de Agentes:**
-a. Representación de agentes
+a. Representación de agentes y modelado del entorno
 b. Arquitecturas de agentes
 c. Planificación y toma de decisiones
 2. **Simulación y Prueba de Agentes:**
-a. Técnicas de simulación
+a. Técnicas de simulación, incluida la simulación de sistemas multiagente
 b. Pruebas y validación
 c. Casos prácticos en la simulación de agentes
-3. **Comunicación y Colaboración entre Agentes:**
-a. Protocolos de comunicación
-b. Colaboración y coordinación
-c. Aplicaciones en sistemas multiagente
+
+*El antiguo bloque 3, Comunicación y Colaboración entre Agentes (protocolos de comunicación, colaboración y coordinación, aplicaciones en sistemas multiagente), se ha unificado con [Inteligencia Artificial Distribuida y Sistemas Multiagente](inteligencia-artificial-distribuida-y-sistemas-multiagente.md), del Semestre 4, donde se repetía.*
 
 ## Conceptos Clave:
 
-Modelado de agentes, simulación, arquitecturas de agentes, planificación, comunicación entre agentes, sistemas multiagente.
+Modelado de agentes, simulación, arquitecturas de agentes, planificación, sistemas multiagente.
 
 ## Proyecto Final: 
 

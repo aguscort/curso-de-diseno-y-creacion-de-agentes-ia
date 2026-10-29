@@ -2,7 +2,7 @@
 
 ## Justificación en el Temario:
 
-## [Temario Propuesto:](tecnicas-de-prompt-engineering/temario-propuesto.md)
+## Temario Propuesto:
 
 ## Proyecto Final:
 

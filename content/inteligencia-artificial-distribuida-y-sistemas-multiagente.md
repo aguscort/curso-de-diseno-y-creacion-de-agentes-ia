@@ -8,16 +8,16 @@ Esta asignatura cubre los conceptos y técnicas necesarios para diseñar y desar
 
 1. **Introducción a la Inteligencia Artificial Distribuida:**
 a. Conceptos y paradigmas
-b. Coordinación y cooperación entre agentes
-c. Comunicación en sistemas multiagente
+b. Coordinación, cooperación y colaboración entre agentes
+c. Comunicación en sistemas multiagente y protocolos de comunicación
 2. **Diseño y Desarrollo de Sistemas Multiagente:**
 a. Arquitecturas y plataformas
-b. Modelado de agentes y entorno
-c. Simulación de sistemas multiagente
 3. **Aplicaciones y Desafíos Éticos:**
-a. Aplicaciones en industria, salud, y educación
+a. Aplicaciones en sistemas multiagente: industria, salud, y educación
 b. Seguridad y robustez en sistemas multiagente
 c. Consideraciones éticas y responsabilidad
+
+*Esta asignatura integra el antiguo bloque 3 de [Modelado y Simulación de Agentes](modelado-y-simulacion-de-agentes.md) (comunicación y colaboración entre agentes), que se repetía aquí. A su vez, el modelado de agentes y del entorno y la simulación de sistemas multiagente, antes puntos 2.b y 2.c, se tratan en esa asignatura del Semestre 1.*
 
 ## Conceptos Clave:
 
@@ -26,8 +26,6 @@ Inteligencia Artificial Distribuida, sistemas multiagente, coordinación y coope
 ## Proyecto Final: 
 
 Diseño de un sistema multiagente en el que agentes creíbles interactúan para resolver un problema complejo.
-
-Implementar y entrenar un agente de aprendizaje por refuerzo para jugar un juego de mesa como el ajedrez. Evaluar su rendimiento contra jugadores humanos y otros agentes.
 
 ## Criterios de Evaluación:
 

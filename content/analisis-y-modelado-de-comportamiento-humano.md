@@ -1,5 +1,7 @@
 # Análisis y Modelado de Comportamiento Humano
 
+*Asignatura unificada con la parte de comportamiento de la antigua «Emociones y Comportamiento en Agentes Inteligentes». Las emociones pasan a [Computación Afectiva: Análisis y Modelado de Emociones](computacion-afectiva.md).*
+
 ## Justificación en el Temario:
 
 Esta asignatura se centra en el entendimiento del comportamiento humano para crear agentes que puedan interactuar de manera más natural y eficiente. Comprender cómo piensan, sienten y actúan los seres humanos es esencial para el diseño de agentes creíbles.
@@ -9,7 +11,7 @@ Esta asignatura se centra en el entendimiento del comportamiento humano para cre
 1. **Introducción a la Psicología Humana:**
 a. Teorías de la personalidad y comportamiento
 b. Procesamiento de la información y toma de decisiones
-c. Emociones y motivación
+c. Motivación (las emociones se tratan en Computación Afectiva)
 2. **Modelado Computacional del Comportamiento Humano:**
 a. Simulación y modelado de agentes humanos
 b. Representación del conocimiento y razonamiento humano

@@ -16,7 +16,7 @@ b. Síntesis de voz
 c. Adaptación y personalización de la voz
 3. **Aplicaciones y Ética en PLN:**
 a. Chatbots y asistentes virtuales
-b. Análisis de sentimientos
+b. Análisis de sentimientos, incluidas las aplicaciones del aprendizaje automático y del aprendizaje profundo
 c. Consideraciones éticas y de privacidad
 
 ## Conceptos Clave:

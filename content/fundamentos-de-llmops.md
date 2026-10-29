@@ -2,7 +2,7 @@
 
 ## Justificación en el Temario:
 
-## [Temario Propuesto:](fundamentos-de-llmops/temario_propuesto.md)
+## Temario Propuesto:
 
 ## Proyecto Final:
 

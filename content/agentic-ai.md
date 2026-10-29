@@ -2,7 +2,7 @@
 
 ## Justificación en el Temario:
 
-## [Temario Propuesto:](agentic-ai/temario-propuesto.md)
+## Temario Propuesto:
 
 ## Proyecto Final:
 
