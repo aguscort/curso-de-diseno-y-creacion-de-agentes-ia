@@ -6,26 +6,50 @@
 
 Para crear agentes creíbles, es fundamental comprender y analizar las emociones humanas y saber modelarlas y simularlas en los propios agentes. Esta asignatura aborda ambas caras: cómo los agentes pueden reconocer y responder a las emociones humanas, y cómo modelar y simular emociones y comportamientos en agentes inteligentes, para lograr una interacción más empática, humana y realista.
 
-## [Temario Propuesto:](computacion-afectiva/temario-propuesto.md)
+## Temario Propuesto:
 
-1. **Fundamentos Psicológicos de las Emociones:**
-a. Teorías psicológicas de las emociones; diferencia entre emoción, sentimiento y estados afectivos
-b. Comunicación no verbal y lenguaje corporal
-c. Emociones en la interacción humano-máquina
-2. **Técnicas de Reconocimiento de Emociones:**
-a. Procesamiento de señales biométricas y faciales
-b. Análisis de voz y prosodia
-c. Reconocimiento, extracción y análisis de emociones en texto
-3. **Modelado, Simulación y Expresión de Emociones en Agentes:**
-a. Modelado de personalidad y emociones en agentes: modelos de emociones para agentes
-b. Expresión de emociones
-c. Comportamiento adaptativo e interacción emocional con el usuario
-d. Agentes empáticos, resonancia emocional y asistentes emocionales
-4. **Aplicación y Evaluación:**
-a. Implementación de modelos emocionales
-b. Evaluación de la interacción emocional
-c. Estudios de caso en entretenimiento, salud y educación
-d. Ética y sensibilidad en la respuesta emocional
+1. **Qué es una emoción**
+    - Emoción, estado de ánimo, afecto, sentimiento y rasgo; componentes de la emoción según el modelo de procesos componentes (Scherer)
+    - Teorías clásicas: James-Lange, Cannon-Bard y Schachter-Singer
+    - Emociones básicas (Ekman) y modelos dimensionales: circumplejo de Russell (1980) y modelo PAD (Mehrabian y Russell, 1974)
+    - Teorías de la valoración cognitiva (Lazarus, Scherer, modelo OCC) y enfoque constructivista (Barrett)
+2. **Expresión de las emociones y comunicación no verbal**
+    - Expresión facial y sistema de codificación de unidades de acción FACS (Ekman y Friesen, 1978)
+    - Postura, gesto, mirada y prosodia
+    - Variación cultural y reglas de expresión; el debate sobre la universalidad (Barrett et al., 2019)
+    - Emociones en la interacción humano-máquina
+3. **Reconocimiento de emociones en el rostro y el cuerpo**
+    - Detección de rostros, puntos faciales y unidades de acción con OpenFace y Py-Feat
+    - Modelos profundos de reconocimiento de expresiones faciales y corporales
+    - Conjuntos de datos CK+, FER2013 y AffectNet; etiquetas categóricas frente a continuas
+    - Condiciones reales: iluminación, oclusión, pose y desequilibrio demográfico de los datos
+4. **Emoción en la voz y en las señales fisiológicas**
+    - Rasgos acústicos y prosódicos: tono, energía y MFCC; conjunto eGeMAPS con openSMILE
+    - Modelos autosupervisados de voz (wav2vec 2.0) para reconocer emociones; corpus IEMOCAP y RAVDESS
+    - Señales fisiológicas: actividad electrodérmica, variabilidad de la frecuencia cardiaca, temperatura de la piel y EEG
+    - Wearables y detección de estrés y activación; conjuntos WESAD y DEAP
+5. **Emoción en el texto**
+    - Léxicos afectivos: NRC EmoLex y NRC VAD (Mohammad)
+    - Clasificadores clásicos y ajuste fino de transformers; conjunto GoEmotions (Demszky et al., 2020)
+    - Ironía, negación y dependencia del contexto
+6. **Fusión multimodal, anotación y métricas**
+    - Fusión temprana, tardía e híbrida; modelado temporal
+    - Anotación y verdad de referencia: autoinforme frente a observador; acuerdo entre anotadores
+    - Métricas (exactitud, F1, coeficiente de correlación de concordancia) y generalización entre corpus
+7. **Modelos computacionales de emoción para agentes**
+    - Modelos basados en la valoración: OCC (Ortony, Clore y Collins, 1988) y EMA (Marsella y Gratch, 2009)
+    - Modelos dimensionales de estado de ánimo: ALMA (Gebhard, 2005) y WASABI (Becker-Asano y Wachsmuth)
+    - La personalidad como parámetro del agente: el modelo de los Cinco Grandes
+    - FAtiMA Toolkit; selección de conducta guiada por la emoción y comportamiento adaptativo
+8. **Expresión emocional en agentes virtuales**
+    - Agentes conversacionales corporeizados; marco SAIBA y lenguaje BML (Kopp et al., 2006); plataforma Greta (Pelachaud)
+    - Correspondencia entre emociones y unidades de acción; mirada, gesto y voz emocional
+    - Interacción emocional con el usuario: contagio y resonancia emocional; agentes empáticos y asistentes emocionales
+    - Casos: tutores afectivos, salud, videojuegos y atención al cliente
+
+*El análisis de sentimientos se trata en [Comunicación Natural, Tecnologías de Voz y Procesamiento del Lenguaje en Agentes](comunicacion-natural-tecnologias-de-voz-y-procesamiento-del-lenguaje.md); el reconocimiento de emociones a lo largo de una conversación y la generación de respuestas empáticas, en [Inteligencia Artificial Empática](inteligencia-artificial-empatica.md); la animación facial de personajes, en [Narrativa, Storytelling y Creación de Personajes en Agentes Inteligentes](narrativa-storytelling-y-creacion-de-personajes.md).*
+
+*Desarrollo en prosa de la versión anterior del temario, que todavía no sigue esta estructura: [temario-propuesto.md](computacion-afectiva/temario-propuesto.md).*
 
 ## Conceptos Clave:
 

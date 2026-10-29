@@ -4,20 +4,52 @@
 
 El aprendizaje automático es esencial en el diseño de agentes creíbles, ya que permite que los agentes aprendan y se adapten a partir de los datos y la experiencia. Esta asignatura proporcionará a los estudiantes una comprensión sólida de las técnicas de aprendizaje automático aplicadas a agentes inteligentes.
 
-## [Temario Propuesto:](tecnicas-de-aprendizaje-automatico-para-agentes/temario-propuesto.md)
+## Temario Propuesto:
 
-1. **Fundamentos de Aprendizaje Automático:**
-a. Supervisado, no supervisado y aprendizaje por refuerzo
-b. Preprocesamiento y manejo de datos
-c. Evaluación y validación de modelos
-2. **Técnicas de Aprendizaje para Agentes:**
-a. Redes neuronales y aprendizaje profundo
-b. Algoritmos genéticos y optimización
-c. Aprendizaje multiagente
-3. **Aplicación Práctica y Casos de Uso:**
-a. Aprendizaje en tiempo real y adaptación
-b. Integración de aprendizaje en agentes creíbles
-c. Consideraciones éticas en el aprendizaje automático
+1. **El flujo de trabajo del aprendizaje automático**
+    - Formulación del problema; datos de interacción de agentes y usuarios
+    - Limpieza, preparación y selección de características; clases desequilibradas
+    - Partición de datos, validación cruzada y métricas (exactitud, F1, AUC ROC, error cuadrático medio)
+    - Sobreajuste, regularización L1 y L2, y ajuste de hiperparámetros (rejilla, aleatorio y bayesiano)
+2. **Aprendizaje supervisado**
+    - Regresión lineal y logística
+    - Árboles de decisión y métodos de conjunto: bosques aleatorios y gradient boosting
+    - Máquinas de vectores de soporte y vecinos más cercanos
+    - Interpretación de modelos con SHAP y LIME
+3. **Redes neuronales profundas**
+    - Perceptrón multicapa, retropropagación y optimizadores (SGD, Adam)
+    - Regularización: dropout y normalización por lotes
+    - Redes convolucionales para la percepción y redes recurrentes (LSTM) para secuencias
+    - Aprendizaje por transferencia y ajuste fino de modelos preentrenados con PyTorch
+4. **Aprendizaje no supervisado y modelado de usuarios**
+    - Agrupamiento (k-medias, DBSCAN) y reducción de dimensionalidad (PCA, UMAP)
+    - Detección de anomalías
+    - Modelado de jugadores y usuarios (Yannakakis y Togelius, *Artificial Intelligence and Games*)
+5. **Fundamentos del aprendizaje por refuerzo**
+    - Procesos de decisión de Markov y ecuaciones de Bellman
+    - Programación dinámica, métodos de Monte Carlo y diferencias temporales
+    - Q-learning y SARSA; exploración frente a explotación (ε-voraz, UCB)
+6. **Aprendizaje por refuerzo profundo**
+    - DQN (Mnih et al., 2015)
+    - Gradiente de política (REINFORCE), actor-crítico, PPO (Schulman et al., 2017) y SAC
+    - Diseño de recompensas y aprendizaje por currículo
+    - Entornos y bibliotecas: Gymnasium, Stable-Baselines3 y CleanRL
+7. **Búsqueda y juego**
+    - Búsqueda en árbol de Monte Carlo (MCTS)
+    - AlphaZero: autojuego con redes de política y de valor (Silver et al., 2018)
+8. **Aprender de demostraciones y de preferencias humanas**
+    - Clonación de comportamiento y DAgger; aprendizaje por refuerzo inverso y GAIL
+    - Modelos de recompensa y RLHF (Ouyang et al., 2022); optimización directa de preferencias, DPO (Rafailov et al., 2023)
+9. **Métodos evolutivos**
+    - Algoritmos genéticos
+    - Neuroevolución (NEAT) y algoritmos de calidad-diversidad (MAP-Elites) para obtener comportamientos variados
+10. **Aprendizaje para agentes creíbles**
+    - Adaptación en tiempo real y ajuste dinámico de la dificultad
+    - Comportamiento humano frente a comportamiento óptimo: imitación al servicio de la credibilidad
+
+*El aprendizaje con varios agentes se trata en [Inteligencia Artificial Distribuida y Sistemas Multiagente](inteligencia-artificial-distribuida-y-sistemas-multiagente.md); los modelos generativos, en [Introducción a la IA Generativa](introduccion-a-la-ia-generativa.md).*
+
+*Desarrollo en prosa de la versión anterior del temario, que todavía no sigue esta estructura: [temario-propuesto.md](tecnicas-de-aprendizaje-automatico-para-agentes/temario-propuesto.md).*
 
 ## Proyecto Final:
 
@@ -35,7 +67,7 @@ Implementar y entrenar un agente de aprendizaje por refuerzo para jugar un juego
 
 ## Conceptos Clave:
 
-Aprendizaje automático, aprendizaje por refuerzo, redes neuronales, algoritmos genéticos, aprendizaje multiagente.
+Aprendizaje automático, aprendizaje por refuerzo, redes neuronales, algoritmos genéticos, aprendizaje por imitación, RLHF.
 
 ## Bibliografía Obligatoria:
 

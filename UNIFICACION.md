@@ -35,7 +35,7 @@ En los temarios desarrollados, los apartados repetidos se han sustituido por una
 
 ## Repeticiones literales eliminadas
 
-El temario desarrollado de Técnicas de Aprendizaje Automático para Agentes estaba copiado, idéntico, en Agentic AI, Fundamentos de LLMOps y Técnicas de Prompt Engineering; la copia ya venía así en la exportación original de Notion. Se mantiene en su asignatura y se han retirado las tres copias, de modo que esas tres asignaturas quedan sin temario, igual que el resto de sus apartados.
+El temario desarrollado de Técnicas de Aprendizaje Automático para Agentes estaba copiado, idéntico, en Agentic AI, Fundamentos de LLMOps y Técnicas de Prompt Engineering; la copia ya venía así en la exportación original de Notion. Se mantiene en su asignatura y se han retirado las tres copias; esas tres asignaturas tienen ahora una ficha completa propia, propuesta después de la unificación.
 
 El proyecto de aprendizaje por refuerzo para jugar al ajedrez figuraba igual en Técnicas de Aprendizaje Automático para Agentes y en IA Distribuida y Sistemas Multiagente. Se queda en la primera; la segunda conserva su propio proyecto de sistema multiagente.
 
@@ -51,12 +51,27 @@ Las dos fichas originales de la asignatura de emociones proponían a la Dra. Isa
 
 El enlace al temario de Análisis de Emociones apuntaba a una ruta de la exportación de Notion que no existe en el repositorio; al trasladarlo a Computación Afectiva queda enlazado.
 
+## Temarios detallados
+
+Después de la unificación, los temarios de las quince asignaturas se han reescrito por unidades con contenidos concretos: teorías, modelos, algoritmos, herramientas y autores de referencia. Ninguna asignatura conserva un apartado de ética, calidad o gobernanza. La ética, la legislación y la gobernanza se concentran en Ética y Legislación en Inteligencia Artificial y Agentes Virtuales, y la metodología de evaluación en Evaluación y Validación de Agentes Creíbles. Cada punto de los temarios anteriores tiene sitio en los nuevos; los que han cambiado de asignatura son estos:
+
+| Contenido | Estaba en | Pasa a |
+|---|---|---|
+| Apartados de ética, privacidad y aspectos legales | IA Generativa, Computación Afectiva, Comportamiento Humano, Narrativa, Interacción Humano-Agente, Comunicación Natural y Voz, IA Empática, Aprendizaje Automático e IA Distribuida | Ética y Legislación |
+| Cumplimiento normativo y gobernanza | Fundamentos de LLMOps | Ética y Legislación |
+| Estándares y regulaciones | Evaluación y Validación | Ética y Legislación |
+| Gestión del ciclo de vida, mantenimiento y actualizaciones | Evaluación y Validación | Fundamentos de LLMOps |
+| Evaluación de sistemas de diálogo con métricas automáticas y evaluación humana | IA Empática | Evaluación y Validación |
+| Bancos de pruebas para agentes | Agentic AI | Evaluación y Validación |
+| Colaboración entre varios agentes y protocolo A2A | Agentic AI | IA Distribuida y Sistemas Multiagente |
+| Aprendizaje multiagente | Técnicas de Aprendizaje Automático | IA Distribuida y Sistemas Multiagente |
+
+Los temarios desarrollados en prosa (`temario-propuesto.md`) de seis asignaturas son de la versión anterior y todavía no siguen la nueva estructura; cada ficha los enlaza como material previo.
+
 ## Solapamientos que se mantienen
 
 | Tema | Dónde | Motivo |
 |---|---|---|
-| Redes neuronales y aprendizaje profundo, autoencoders y GAN | Introducción a la IA Generativa (S1) y Técnicas de Aprendizaje Automático para Agentes (S3) | Es un problema de secuencia más que de duplicación: el aprendizaje profundo se usa en el Semestre 1 y se enseña en el 3. Resolverlo exige reordenar el plan, no fusionar. |
-| Aprendizaje multiagente | Técnicas de Aprendizaje Automático para Agentes (S3) y temario desarrollado de IA Distribuida y Sistemas Multiagente (S4) | Depende de qué asignatura deba introducirlo; también es una cuestión de orden. |
-| Evaluación de la experiencia de usuario y pruebas con usuarios | Interacción Humano-Agente (S2) y Evaluación y Validación de Agentes Creíbles (S4) | Una lo trata como parte del ciclo de diseño y la otra como metodología de evaluación. |
+| Redes neuronales | Introducción a la IA Generativa (S1, a nivel conceptual) y Técnicas de Aprendizaje Automático para Agentes (S3, en profundidad) | Es un problema de secuencia más que de duplicación: el aprendizaje profundo se usa en el Semestre 1 y se enseña a fondo en el 3. Resolverlo exige reordenar el plan, no fusionar. |
 | Personalidad | Comportamiento Humano (teorías), Computación Afectiva (modelos computacionales) y Narrativa (arquetipos) | Son tres enfoques distintos del mismo concepto. |
-| Ética | Cada asignatura y Ética y Legislación (S4) | Ética transversal más una asignatura específica, por diseño del plan. |
+| Personajes basados en LLM | Prompt Engineering (especificación mediante prompts), Agentic AI (memoria y arquitectura) y Narrativa (integración en la historia) | Son tres enfoques complementarios; cada ficha remite a las otras. |

@@ -6,31 +6,53 @@
 
 La narrativa, el storytelling y la creación de personajes son elementos cruciales en el diseño de agentes creíbles que puedan comunicarse de manera efectiva y emotiva con los usuarios. Esta asignatura explora cómo aplicar técnicas narrativas y de creación de personajes para mejorar la interacción con agentes y lograr que sea convincente y realista.
 
-## [Temario Propuesto:](narrativa-storytelling-y-creacion-de-personajes/temario-propuesto.md)
+## Temario Propuesto:
 
-1. **Fundamentos de Narrativa y Storytelling:**
-a. Elementos y estructuras de la narrativa
-b. Principios de la escritura creativa
-c. La narrativa en medios interactivos y técnicas de narración no lineal
-d. Narrativa transmedia
-2. **Creación de Personajes y Agentes:**
-a. Desarrollo de personajes
-b. Personalidades y arquetipos
-c. Animación y expresión facial
-3. **Aplicación en Agentes Inteligentes y Práctica en Narrativa Interactiva:**
-a. Diseño de diálogos y guiones
-b. Generación automática de historias
-c. Personalización y adaptación a usuarios
-d. Herramientas y plataformas para narrativa interactiva
-e. Estudios de caso en entretenimiento y educación
-4. **Narrativa y Ética:**
-a. Ética en la comunicación, representación y diversidad
-b. Narrativa persuasiva y manipulativa
-c. Impacto social y cultural de las narrativas
+1. **Teoría narrativa**
+    - Historia y discurso (fábula y trama); narrador, focalización y tiempo narrativo (Genette)
+    - La Poética de Aristóteles: unidad de acción, peripecia y anagnórisis; pirámide de Freytag y estructura en tres actos
+    - Morfología del cuento (Propp) y viaje del héroe (Campbell; Vogler)
+2. **El oficio de contar historias**
+    - Premisa, tema y conflicto interno y externo; lo que está en juego
+    - Escena y secuela; mostrar frente a contar; subtexto en el diálogo
+    - Principios de escritura creativa (McKee, *Story*; Truby, *The Anatomy of Story*)
+3. **Creación de personajes**
+    - Deseo, necesidad y debilidad (Truby); arco de transformación
+    - Motivación, trasfondo y biblia del personaje
+    - Arquetipos (Vogler) frente a clichés; voz e idiolecto
+4. **Narrativa interactiva y transmedia**
+    - Inmersión, agencia y transformación (Murray, *Hamlet on the Holodeck*)
+    - Narrativa como realidad virtual (Ryan) y paradoja narrativa entre el control del autor y la agencia del jugador
+    - Narrativa embebida y emergente (Jenkins); disonancia ludonarrativa
+    - Narrativa transmedia (Jenkins, *Convergence Culture*)
+5. **Estructuras ramificadas y herramientas**
+    - Rama y cuello de botella, recombinación (foldback), centro y radios; variables de estado
+    - Storylets y narrativa basada en cualidades (Kreminski y Wardrip-Fruin, 2018)
+    - Árboles de diálogo, guiones y frases de ambiente (barks)
+    - Herramientas: Twine, Ink, Yarn Spinner y articy:draft
+6. **Narrativa computacional**
+    - Generación de historias: Tale-Spin (Meehan, 1977) y planificación narrativa (Riedl y Young, 2010)
+    - Gestión del drama y de la experiencia: Façade (Mateas y Stern) y adaptación de la historia al usuario (Riedl y Bulitko, 2013)
+    - Simulación social como motor narrativo: Versu (Evans y Short) y Prom Week
+7. **Historias y personajes con modelos de lenguaje**
+    - Generación de historias con LLM: planificación previa y control de la coherencia y del estado de la trama
+    - Integrar personajes con LLM en una estructura narrativa: control autoral, límites de conocimiento y coherencia con el mundo de ficción
+    - Coescritura asistida por IA
+8. **Corporeización del personaje**
+    - Flujo de creación de personajes 3D: modelado, rigging y blendshapes
+    - Animación facial y sincronización labial (visemas)
+    - Humanos digitales (MetaHuman) y animación en Unity y Unreal Engine
+9. **Casos de estudio**
+    - Videojuegos narrativos y de diálogo, ficción interactiva y cine interactivo
+    - Narrativa aplicada a la educación
+
+*La especificación de personajes mediante prompts se trata en [Técnicas de Prompt Engineering](tecnicas-de-prompt-engineering.md); la memoria y la planificación de los agentes generativos, en [Agentic AI](agentic-ai.md); la expresión de emociones en agentes virtuales, en [Computación Afectiva: Análisis y Modelado de Emociones](computacion-afectiva.md).*
+
+*Desarrollo en prosa de la versión anterior del temario, que todavía no sigue esta estructura: [temario-propuesto.md](narrativa-storytelling-y-creacion-de-personajes/temario-propuesto.md).*
 
 ## Conceptos Clave:
 
-Narrativa, storytelling, creación de personajes, diseño de diálogos, generación automática de historias, narrativa interactiva, narración no lineal, animación, ética en la narración, diversidad en la representación.
+Narrativa, storytelling, creación de personajes, diseño de diálogos, generación automática de historias, narrativa interactiva, narración no lineal, animación, narrativa computacional, storylets.
 
 ## Proyecto Final:
 

@@ -8,22 +8,47 @@ Esta asignatura se centra en el entendimiento del comportamiento humano para cre
 
 ## Temario Propuesto:
 
-1. **Introducción a la Psicología Humana:**
-a. Teorías de la personalidad y comportamiento
-b. Procesamiento de la información y toma de decisiones
-c. Motivación (las emociones se tratan en Computación Afectiva)
-2. **Modelado Computacional del Comportamiento Humano:**
-a. Simulación y modelado de agentes humanos
-b. Representación del conocimiento y razonamiento humano
-c. Interacción social y cultural
-3. **Evaluación y Validación de Modelos de Comportamiento:**
-a. Métodos de evaluación y medición
-b. Análisis de la eficacia del modelo
-c. Ética en el análisis y modelado del comportamiento
+1. **Personalidad y diferencias individuales**
+    - Teorías de rasgos: Cinco Grandes y HEXACO; instrumentos de medida (BFI, IPIP)
+    - Interacción entre persona y situación
+    - De los rasgos a los parámetros de un agente simulado
+2. **Motivación, actitudes y conducta**
+    - Teoría de la autodeterminación (Deci y Ryan) y modelos de expectativa-valor
+    - Teoría de la conducta planificada (Ajzen, 1991)
+    - Hábitos y conducta automática
+3. **Juicio y toma de decisiones**
+    - Racionalidad limitada (Simon)
+    - Heurísticos y sesgos (Tversky y Kahneman, 1974); teoría de las perspectivas (Kahneman y Tversky, 1979)
+    - Modelos de doble proceso; decisiones con riesgo y descuento temporal
+4. **Procesamiento de la información y arquitecturas cognitivas**
+    - El modelo de procesamiento de la información: memoria sensorial, memoria de trabajo y memoria a largo plazo
+    - Arquitecturas cognitivas: ACT-R (Anderson), Soar (Laird) y CLARION (Sun)
+    - Representación del conocimiento y razonamiento humano en las arquitecturas cognitivas
+5. **Comportamiento social y cultural**
+    - Influencia social, conformidad y normas
+    - Redes sociales: homofilia, mundos pequeños y difusión
+    - Dinámica de opiniones: modelo de DeGroot, confianza acotada (Deffuant; Hegselmann y Krause) y modelos de umbral (Granovetter, 1978)
+    - Dimensiones culturales (Hofstede) y sus limitaciones
+6. **Multitudes, movilidad y evacuación**
+    - Modelo de fuerzas sociales (Helbing y Molnár, 1995) y simulación de situaciones de pánico (Helbing, Farkas y Vicsek, 2000)
+    - Autómatas celulares para peatones y evitación de colisiones (ORCA)
+    - Elección de rutas: por qué las personas no siguen la ruta óptima
+7. **Datos de comportamiento**
+    - Fuentes: registros de interacción, sensores, encuestas y muestreo de experiencias
+    - Análisis de secuencias de conducta y patrones temporales
+8. **Ajuste de modelos a datos humanos**
+    - Estimación de parámetros por máxima verosimilitud
+    - Comparación de modelos: AIC, BIC y validación cruzada
+    - Contraste con datos experimentales y de campo; heterogeneidad entre individuos
+9. **Modelos de lenguaje como simuladores de personas**
+    - Muestras sintéticas de encuestados (Argyle et al., 2023) y Homo silicus (Horton, 2023)
+    - Límites: varianza reducida, estereotipos y sensibilidad al prompt
+
+*Las emociones se tratan en [Computación Afectiva: Análisis y Modelado de Emociones](computacion-afectiva.md); la experimentación con simulaciones, en [Modelado y Simulación de Agentes](modelado-y-simulacion-de-agentes.md); el aprendizaje automático para modelar usuarios, en [Técnicas de Aprendizaje Automático para Agentes](tecnicas-de-aprendizaje-automatico-para-agentes.md).*
 
 ## Conceptos Clave:
 
-Psicología humana, modelado del comportamiento, simulación, interacción social y cultural, ética en el modelado.
+Psicología humana, modelado del comportamiento, simulación, interacción social y cultural, arquitecturas cognitivas, dinámica de opiniones, simulación de multitudes.
 
 ## Proyecto Final:
 

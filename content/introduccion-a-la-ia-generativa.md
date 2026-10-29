@@ -6,34 +6,51 @@ La inteligencia artificial (IA) generativa es un subcampo emergente de la IA que
 
 ## Temario Propuesto:
 
-1. **Fundamentos de la IA Generativa**
-    - Introducción a la IA generativa
-    - Historia y evolución de la IA generativa
-    - Aplicaciones y usos en la industria y la academia
-2. **Técnicas Básicas de Modelado Generativo**
-    - Redes neuronales y aprendizaje profundo
-    - Modelos generativos vs. discriminativos
-    - Autoencoders y su papel en la generación
-3. **Redes Generativas Adversarias (GANs)**
-    - Fundamentos de GANs
-    - Arquitectura y componentes de GANs
-    - Aplicaciones y variantes de GANs
-4. **Modelos de Atención y Transformadores**
-    - Mecanismos de atención en IA
-    - Arquitecturas de transformadores
-    - Generación de texto y aplicaciones artísticas
-5. **Validación y Evaluación de Modelos Generativos**
-    - Métodos de validación para modelos generativos
-    - Métricas de calidad y diversidad
-    - Desafíos y soluciones en la evaluación
-6. **Ética y Consideraciones Sociales**
-    - Implicaciones éticas de la IA generativa
-    - Uso responsable y consideraciones legales
-    - Desafíos y soluciones en la aplicación de IA generativa
+1. **Qué es un modelo generativo**
+    - Modelos generativos y discriminativos; distribuciones de probabilidad, verosimilitud y muestreo
+    - Variables latentes y espacios latentes
+    - Evolución histórica, de las cadenas de Markov y los n-gramas a los modelos fundacionales; aplicaciones en la industria y la academia
+2. **Redes neuronales imprescindibles para la generación**
+    - Neuronas, capas y funciones de activación
+    - Función de pérdida, descenso de gradiente y retropropagación, a nivel conceptual
+    - Representaciones vectoriales (embeddings); primeros pasos con PyTorch
+3. **Autoencoders y autoencoders variacionales**
+    - Autoencoders y compresión en un espacio latente
+    - Autoencoder variacional: cota inferior de la evidencia (ELBO) y truco de reparametrización (Kingma y Welling, 2013)
+    - Interpolación y edición en el espacio latente
+4. **Redes generativas adversarias**
+    - Juego minimax entre generador y discriminador (Goodfellow et al., 2014)
+    - Inestabilidad del entrenamiento y colapso de modos
+    - Variantes: DCGAN, GAN condicionales y StyleGAN (Karras et al., 2019)
+5. **Atención y transformers**
+    - Mecanismo de atención, autoatención y atención multicabeza
+    - Codificación posicional; arquitecturas de codificador, de decodificador y de codificador-decodificador (Vaswani et al., 2017)
+    - Generación autorregresiva y estrategias de decodificación: voraz, por haz, temperatura, top-k y top-p (Holtzman et al., 2020)
+6. **Grandes modelos de lenguaje**
+    - Preentrenamiento por predicción del siguiente token y composición de los datos
+    - Leyes de escala (Kaplan et al., 2020; Hoffmann et al., 2022)
+    - Ajuste por instrucciones y alineamiento con preferencias humanas: visión general
+    - Modelos de razonamiento y cómputo en tiempo de inferencia; modelos abiertos y cerrados
+7. **Modelos de difusión**
+    - Difusión con eliminación de ruido, DDPM (Ho et al., 2020)
+    - Difusión latente (Rombach et al., 2022) y guía sin clasificador
+    - Condicionamiento y personalización: ControlNet, LoRA y DreamBooth
+    - Generación de vídeo: visión general
+8. **Modelos multimodales**
+    - CLIP y alineamiento entre texto e imagen (Radford et al., 2021)
+    - Modelos de visión y lenguaje
+    - Generación de audio y música: visión general
+    - Generación de recursos para agentes: avatares, rostros expresivos y escenarios
+9. **Métricas de los modelos generativos**
+    - Verosimilitud y perplejidad
+    - FID (Heusel et al., 2017) y CLIP score
+    - Evaluación por preferencias humanas y comparaciones por pares
+
+*El entrenamiento de redes en profundidad y el aprendizaje con retroalimentación humana se tratan en [Técnicas de Aprendizaje Automático para Agentes](tecnicas-de-aprendizaje-automatico-para-agentes.md); el uso de los modelos mediante prompts, en [Técnicas de Prompt Engineering](tecnicas-de-prompt-engineering.md); la síntesis de voz, en [Comunicación Natural, Tecnologías de Voz y Procesamiento del Lenguaje en Agentes](comunicacion-natural-tecnologias-de-voz-y-procesamiento-del-lenguaje.md).*
 
 ## Conceptos Clave:
 
-Modelos Generativos, Redes Generativas Adversarias (GANs), Transformadores, Autoencoders, Ética en IA Generativa, Validación y Evaluación.
+Modelos Generativos, Redes Generativas Adversarias (GANs), Transformadores, Autoencoders, Modelos de Difusión, Grandes Modelos de Lenguaje, Validación y Evaluación.
 
 ## Proyecto Final: 
 
