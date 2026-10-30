@@ -44,38 +44,7 @@ Esta introducción a la Inteligencia Artificial Distribuida ha ofrecido una visi
 
 ## **Agentes y Modelos de Agentes**
 
-La idea de un agente es un concepto central en la IAD y se utiliza para describir una entidad que puede percibir su entorno a través de sensores y actuar en ese entorno a través de actuadores. Un agente es autónomo en la medida en que su comportamiento está determinado por su propia experiencia y conocimiento, y no por una intervención externa.
-
-### **Definición y Tipos de Agentes**
-
-Podemos definir un agente como una entidad que interactúa con un entorno y lleva a cabo acciones basadas en sus observaciones con el objetivo de lograr algún propósito o meta. Los agentes pueden ser físicos, como un robot, o virtuales, como un software que maneja consultas en una base de datos.
-
-Los agentes se clasifican en varios tipos según diferentes criterios:
-
-1. **Agentes reactivos:** Responden directamente a los cambios en su entorno sin utilizar un modelo interno del mundo. Son simples y rápidos, pero no son adecuados para entornos complejos.
-2. **Agentes basados en modelos:** Utilizan un modelo interno del mundo para razonar acerca de sus acciones. Esto les permite manejar entornos parcialmente observables, donde no toda la información está disponible en un momento dado.
-3. **Agentes basados en metas:** Tienen metas u objetivos específicos que guían su comportamiento. Pueden planificar y tomar decisiones basadas en cómo sus acciones les ayudarán a alcanzar sus metas.
-4. **Agentes basados en utilidad:** Utilizan una función de utilidad para evaluar las consecuencias de sus acciones y elegir las que maximizan su bienestar percibido.
-
-### **Modelado de Agentes**
-
-El modelado de agentes se refiere a la representación y diseño de agentes, lo cual es crucial para el diseño de sistemas multiagente. Los modelos son esenciales para describir cómo un agente percibe su entorno, cómo razona y toma decisiones, y cómo lleva a cabo acciones.
-
-Existen varios modelos y arquitecturas que se han propuesto en la literatura para representar agentes, incluyendo:
-
-1. **Modelos basados en reglas:** Estos modelos representan el conocimiento del agente en forma de reglas condicionales que dictan sus acciones en diferentes circunstancias.
-2. **Modelos BDI (Belief-Desire-Intention):** En esta arquitectura, el agente se modela en términos de sus creencias (lo que sabe sobre el mundo), deseos (lo que quiere lograr) e intenciones (lo que planea hacer).
-3. **Modelos de aprendizaje:** Algunos agentes pueden aprender de su experiencia. Estos modelos incorporan mecanismos de aprendizaje que permiten al agente mejorar su comportamiento con el tiempo.
-
-### **Arquitecturas de Agentes**
-
-La arquitectura de un agente es el diseño subyacente que define la estructura y el funcionamiento del agente. Las arquitecturas comunes incluyen:
-
-1. **Arquitecturas reactivas:** Donde el agente responde directamente a los estímulos sin razonamiento complejo.
-2. **Arquitecturas cognitivas:** Donde el agente tiene capacidades de razonamiento y puede representar y utilizar el conocimiento complejo.
-3. **Arquitecturas híbridas:** Que combinan elementos de arquitecturas reactivas y cognitivas.
-
-En resumen, los agentes y los modelos de agentes son fundamentales para la IAD y los sistemas multiagente. Los agentes son entidades que actúan en un entorno para alcanzar objetivos, y se pueden representar y diseñar de varias maneras, dependiendo de sus necesidades y el entorno en el que operan.
+La definición y los tipos de agentes, sus modelos (basados en reglas, BDI y de aprendizaje) y sus arquitecturas (reactivas, cognitivas e híbridas) se desarrollan en el temario de [Modelado y Simulación de Agentes](../modelado-y-simulacion-de-agentes/temario-propuesto.md), del Semestre 1.
 
 ## **Sistemas Multiagente (SMA)**
 
@@ -110,6 +79,10 @@ Estos aspectos pueden ser gestionados a través de:
 1. **Métodos de Planificación Conjunta:** Donde los agentes colaboran en la creación de un plan conjunto.
 2. **Negociación y Contratos:** Donde los agentes negocian roles y responsabilidades y pueden llegar a acuerdos vinculantes.
 3. **Mecanismos de Resolución de Conflictos:** Para manejar situaciones en las que los agentes tienen objetivos en conflicto.
+
+### **Modelado de Conflictos y Resolución**
+
+No todas las interacciones entre agentes serán armoniosas. Habrá momentos en que los agentes entren en conflicto, ya sea por recursos, objetivos contradictorios o simplemente por malentendidos en la comunicación. La simulación de estos conflictos y, lo que es más importante, su resolución, es un área de estudio crítica. Las estrategias de resolución de conflictos pueden variar desde simples reglas de prioridad hasta procesos de mediación complejos que requieren un entendimiento profundo de las necesidades y deseos de todos los agentes involucrados.
 
 Los SMA ofrecen oportunidades emocionantes para desarrollar sistemas complejos y robustos compuestos de agentes que pueden trabajar juntos de manera inteligente. Ya sea en aplicaciones industriales, de atención médica o de entretenimiento, los SMA están remodelando la forma en que pensamos sobre la computación y la inteligencia artificial.
 
@@ -218,6 +191,8 @@ Esta exploración profunda de la comunicación y los lenguajes en SMA proporcion
 
 Entrando en el punto de la negociación y acuerdos entre agentes, encontramos una sección de estudio profundamente interesante y vital en los sistemas multiagente. La negociación es el proceso mediante el cual los agentes llegan a un acuerdo sobre un asunto particular, y es esencial en situaciones donde los agentes tienen intereses parcialmente en conflicto pero también parcialmente alineados.
 
+Los algoritmos de negociación pueden ser tan simples como una subasta o tan complejos como la negociación multipartita con múltiples rondas y contraofertas. La simulación de estas interacciones requiere un entendimiento profundo de la teoría de juegos y la teoría de la utilidad, así como una representación clara de las preferencias y restricciones de cada agente.
+
 ### Modelos de Negociación
 
 La negociación en SMA puede ser modelada de diferentes formas, dependiendo de las necesidades y restricciones del sistema en particular. Aquí hay algunos modelos comunes:
@@ -323,7 +298,7 @@ La **integridad de los datos** asegura que la información no ha sido alterada d
 
 ### **Modelos de Confianza y Reputación**
 
-La confianza y la reputación son conceptos clave en SMA, ya que los agentes a menudo necesitan colaborar con otros agentes desconocidos. La confianza se refiere a la creencia de un agente en que otro agente actuará de una manera predecible y beneficiosa. La reputación, en cambio, es una percepción compartida sobre cómo un agente ha actuado en el pasado.
+La confianza y la reputación son conceptos clave en SMA, ya que los agentes a menudo necesitan colaborar con otros agentes desconocidos. La confianza se refiere a la creencia de un agente en que otro agente actuará de una manera predecible y beneficiosa. La reputación, en cambio, es una percepción compartida sobre cómo un agente ha actuado en el pasado. El modelado de confianza es esencial, especialmente en sistemas donde los agentes pueden tener comportamientos egoístas o incluso maliciosos.
 
 Los **modelos de confianza** son esenciales para facilitar la cooperación en SMA. Estos modelos pueden ser basados en experiencias previas con un agente específico o en recomendaciones de terceros. La confianza puede ser dinámica y cambiar con el tiempo según las interacciones.
 

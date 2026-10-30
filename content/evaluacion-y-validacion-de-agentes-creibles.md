@@ -6,22 +6,50 @@ Esta asignatura se enfoca en la evaluación y validación de agentes creíbles, 
 
 ## Temario Propuesto:
 
-1. **Métodos de Evaluación de Agentes:**
-a. Evaluación cuantitativa y cualitativa
-b. Pruebas con usuarios
-c. Métricas y herramientas de evaluación
-2. **Validación y Verificación:**
-a. Procesos de validación y verificación
-b. Estándares y regulaciones
-c. Casos de estudio y aplicaciones prácticas
-3. **Mejora Continua y Mantenimiento:**
-a. Análisis de retroalimentación y mejoras
-b. Gestión del ciclo de vida del agente
-c. Mantenimiento y actualizaciones
+1. **Qué evaluar en un agente creíble**
+    - Credibilidad como suspensión de la incredulidad (Bates, 1994; Loyall, 1997) frente a credibilidad como confianza (Fogg)
+    - Presencia social, semejanza humana, interacción emocional y competencia
+    - Evaluación formativa y sumativa; rendimiento en la tarea frente a experiencia del usuario
+2. **Instrumentos de medida**
+    - Cuestionario Godspeed (Bartneck et al., 2009)
+    - SUS (Brooke, 1996) y UEQ (Laugwitz et al., 2008)
+    - Escalas de confianza en la automatización (Jian, Bisantz y Drury, 2000) y de presencia social (Networked Minds)
+    - NASA-TLX; fiabilidad de los cuestionarios (alfa de Cronbach)
+3. **Diseño de estudios con usuarios**
+    - Hipótesis y variables; diseños entre sujetos e intrasujeto; contrabalanceo
+    - Tamaño de la muestra y potencia estadística; estudios piloto y prerregistro
+    - Reclutamiento de participantes y protocolo de las sesiones
+4. **Medidas conductuales y fisiológicas**
+    - Registros de interacción y métricas de la tarea
+    - Seguimiento ocular: fijaciones, áreas de interés y mapas de calor
+    - Actividad electrodérmica, frecuencia cardiaca y expresión facial; validez de las medidas fisiológicas
+5. **Pruebas de tipo Turing y evaluación mediante entrevistas**
+    - El test de Turing y sus críticas; pruebas de indistinguibilidad de PARRY (Colby et al., 1972)
+    - Pruebas de credibilidad de bots de videojuego: BotPrize (Hingston, 2009)
+    - Entrevistas a agentes generativos (Park et al., 2023)
+6. **Evaluación automática de agentes conversacionales**
+    - Métricas basadas en referencias y sus límites (Liu et al., 2016); métricas aprendidas
+    - LLM como evaluador: sesgos de posición, de longitud y de autopreferencia; calibración (Zheng et al., 2023)
+    - Comparaciones por pares y clasificaciones de tipo Elo (Chatbot Arena)
+7. **Bancos de pruebas para agentes basados en LLM**
+    - AgentBench, GAIA, τ-bench, SWE-bench, WebArena y OSWorld
+    - Evaluación de trayectorias; contaminación de datos y validez de los bancos de pruebas
+8. **Análisis estadístico y cualitativo**
+    - Contrastes paramétricos y no paramétricos; ANOVA y modelos de efectos mixtos
+    - Tamaños del efecto e intervalos de confianza
+    - Acuerdo entre evaluadores (kappa de Cohen, alfa de Krippendorff); análisis temático (Braun y Clarke, 2006)
+9. **Verificación y validación del software de agentes**
+    - Verificación frente a validación; pruebas unitarias de herramientas y pruebas por escenarios
+    - Pruebas con usuarios simulados; introducción a la verificación formal de SMA mediante comprobación de modelos
+    - Evaluación en producción: pruebas A/B y análisis de la retroalimentación de los usuarios
+10. **Casos de estudio**
+    - Evaluación de asistentes virtuales, personajes de videojuego y agentes de atención al cliente
+
+*La ejecución automática de las evaluaciones en integración continua y la monitorización en producción se tratan en [Fundamentos de LLMOps](fundamentos-de-llmops.md); la aprobación ética de los estudios con personas, en [Ética y Legislación en Inteligencia Artificial y Agentes Virtuales](etica-y-legislacion-en-inteligencia-artificial-y.md).*
 
 ## Conceptos Clave:
 
-Evaluación de agentes, validación y verificación, métricas, mejora continua.
+Credibilidad, instrumentos de medida, diseño experimental, medidas fisiológicas, evaluación automática, bancos de pruebas, validación y verificación.
 
 ## Proyecto Final: 
 

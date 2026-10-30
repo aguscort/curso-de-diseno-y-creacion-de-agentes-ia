@@ -6,22 +6,33 @@ La asignatura "Inteligencia Artificial Empática" se justifica por la creciente 
 
 ## Temario Propuesto:
 
-1. **Fundamentos de la Inteligencia Artificial Empática**
-    - Introducción a la IA y NLP.
-    - Principios de la empatía en la comunicación humana.
-    - Diferencia entre emoción, sentimiento y estados afectivos.
-2. **Técnicas y Herramientas para el Análisis de Emociones**
-    - Extracción y análisis de emociones en texto.
-    - Uso de lexicones afectivos y modelos de clasificación de emociones.
-    - Aplicaciones del aprendizaje automático y aprendizaje profundo en el análisis de sentimientos.
-3. **Diseño y Desarrollo de Sistemas de Diálogo Empáticos**
-    - Modelado de diálogos empáticos y generación de respuestas.
-    - Estudio de casos: asistentes virtuales, soporte al cliente, y terapia asistida por IA.
-    - Evaluación de sistemas de diálogo: métricas automáticas y evaluación humana.
-4. **Desafíos Éticos y Sociales**
-    - Consideraciones éticas en la IA empática: privacidad, sesgo y transparencia.
-    - Impacto social de la IA empática en diversos sectores.
-    - Futuro de la interacción humano-computadora y el papel de la empatía en IA.
+1. **La empatía en la comunicación humana**
+    - Empatía cognitiva y afectiva, compasión y simpatía; medida de la empatía con el IRI (Davis, 1983)
+    - Bases neurocientíficas y desarrollo de la empatía (Decety) y empatía motivada (Zaki)
+    - Escucha activa, validación y reflejo; modelo de habilidades de ayuda de Hill
+2. **La emoción en la conversación**
+    - Reconocimiento de emociones en la conversación: contexto y hablante (MELD, IEMOCAP, DailyDialog)
+    - Extracción de causas de emoción y de pares emoción-causa (Xia y Ding, 2019)
+    - Seguimiento del estado emocional del usuario a lo largo del diálogo
+    - Léxicos afectivos y clasificadores de emociones aplicados al diálogo
+3. **Datos y anotación de la empatía**
+    - EmpatheticDialogues (Rashkin et al., 2019) y ESConv, con sus estrategias de apoyo emocional (Liu et al., 2021)
+    - Marco EPITOME de reacciones emocionales, interpretaciones y exploraciones (Sharma et al., 2020); clasificadores de empatía
+4. **Generación neuronal de respuestas empáticas**
+    - Mezcla de oyentes empáticos (MoEL), imitación de emociones (MIME) y EmpDG
+    - Conocimiento de sentido común (CEM) y puentes de conocimiento
+    - Respuestas centradas en la causa de la emoción y conciencia de uno mismo y del otro
+    - Aprendizaje contrastivo para reducir las alucinaciones en la conversación
+5. **Empatía con grandes modelos de lenguaje**
+    - Prompts y ajuste fino para respuestas empáticas; estrategias de apoyo emocional
+    - Comparaciones con profesionales: respuestas de chatbot frente a respuestas de médicos (Ayers et al., 2023)
+    - Fallos técnicos: complacencia (sycophancy), validación excesiva y respuestas genéricas
+6. **Aplicaciones**
+    - Chatbots de apoyo emocional y de salud mental basados en técnicas cognitivo-conductuales
+    - Atención al cliente y desescalada de conflictos
+    - Asistentes virtuales y terapia asistida por IA
+
+*El reconocimiento de emociones en texto, voz y rostro se trata en [Computación Afectiva: Análisis y Modelado de Emociones](computacion-afectiva.md); el análisis de sentimientos y los sistemas de diálogo, en [Comunicación Natural, Tecnologías de Voz y Procesamiento del Lenguaje en Agentes](comunicacion-natural-tecnologias-de-voz-y-procesamiento-del-lenguaje.md); la evaluación de agentes conversacionales, en [Evaluación y Validación de Agentes Creíbles](evaluacion-y-validacion-de-agentes-creibles.md).*
 
 ## Conceptos Clave:
 

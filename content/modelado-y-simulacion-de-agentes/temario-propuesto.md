@@ -4,25 +4,36 @@
 
 El modelado de agentes es un enfoque apasionante y complejo dentro de la inteligencia artificial que tiene aplicaciones en múltiples dominios, desde videojuegos y simulaciones sociales hasta optimización industrial y análisis de sistemas complejos.
 
-Comencemos con una comprensión básica de lo que es un agente. En el contexto de la inteligencia artificial, un agente es cualquier entidad que pueda percibir su entorno a través de sensores y actuar sobre ese entorno a través de actuadores. Esta definición es bastante general y puede incluir cosas tan simples como un termostato o tan complejas como un robot humanoide. Lo que todos estos agentes tienen en común es su capacidad para tomar decisiones basadas en la información que perciben y las metas que tienen.
+Comencemos con una comprensión básica de lo que es un agente. En el contexto de la inteligencia artificial, un agente es cualquier entidad que pueda percibir su entorno a través de sensores y actuar sobre ese entorno a través de actuadores. Esta definición es bastante general y puede incluir cosas tan simples como un termostato o tan complejas como un robot humanoide. Lo que todos estos agentes tienen en común es su capacidad para tomar decisiones basadas en la información que perciben y las metas que tienen. Un agente es autónomo en la medida en que su comportamiento está determinado por su propia experiencia y conocimiento, y no por una intervención externa. Los agentes pueden ser físicos, como un robot, o virtuales, como un software que maneja consultas en una base de datos.
 
 ### Definición y Tipos de Agentes
 
 Hay diferentes tipos de agentes, y su clasificación puede depender de varios factores, como su capacidad para aprender, sus metas, su capacidad para comunicarse con otros agentes, y muchos más.
 
-1. **Agentes Reactivos**: Estos agentes toman decisiones basadas en un conjunto específico de reglas y en la información actual que perciben de su entorno. No tienen una memoria interna de sus acciones anteriores o de la historia del entorno en el que operan.
-2. **Agentes con Estado**: A diferencia de los agentes reactivos, estos agentes tienen una memoria que les permite recordar acciones anteriores o estados del entorno. Esto les permite tomar decisiones más informadas y complejas.
-3. **Agentes Basados en Objetivos**: Estos agentes tienen un objetivo específico o un conjunto de objetivos que guían su comportamiento. Tomarán decisiones basadas en cómo sus acciones les acercan o alejan de alcanzar estos objetivos.
+1. **Agentes Reactivos**: Estos agentes toman decisiones basadas en un conjunto específico de reglas y en la información actual que perciben de su entorno. No tienen una memoria interna de sus acciones anteriores o de la historia del entorno en el que operan. Son simples y rápidos, pero no son adecuados para entornos complejos.
+2. **Agentes con Estado (basados en modelos)**: A diferencia de los agentes reactivos, estos agentes tienen una memoria que les permite recordar acciones anteriores o estados del entorno. Esto les permite tomar decisiones más informadas y complejas. Utilizan un modelo interno del mundo para razonar acerca de sus acciones, lo que les permite manejar entornos parcialmente observables, donde no toda la información está disponible en un momento dado.
+3. **Agentes Basados en Objetivos**: Estos agentes tienen un objetivo específico o un conjunto de objetivos que guían su comportamiento. Tomarán decisiones basadas en cómo sus acciones les acercan o alejan de alcanzar estos objetivos, y pueden planificar sus acciones para alcanzarlos.
 4. **Agentes Basados en Utilidad**: Estos agentes tienen una función de utilidad que les permite evaluar las diferentes acciones que podrían tomar, basándose en cuánto les beneficia o perjudica cada acción.
 5. **Agentes de Aprendizaje**: Estos agentes tienen la capacidad de aprender de su experiencia y mejorar su comportamiento con el tiempo. Pueden utilizar técnicas de aprendizaje automático para adaptarse y optimizar su comportamiento.
 
 ### Paradigmas en Modelado de Agentes
+
+El modelado de agentes se refiere a la representación y diseño de agentes, lo cual es crucial para el diseño de sistemas multiagente. Los modelos son esenciales para describir cómo un agente percibe su entorno, cómo razona y toma decisiones, y cómo lleva a cabo acciones.
 
 El modelado de agentes no es una tarea única o estática; hay diferentes enfoques y metodologías que se pueden utilizar, dependiendo de lo que se quiera lograr. Algunos de los paradigmas comunes en el modelado de agentes incluyen:
 
 1. **Modelado Basado en Reglas**: En este enfoque, el comportamiento del agente se define mediante un conjunto de reglas que dictan qué acción debe tomar el agente en función de su estado actual y la información que percibe.
 2. **Modelado Basado en Utilidad**: En lugar de reglas fijas, este enfoque utiliza una función de utilidad para evaluar las diferentes acciones que podría tomar el agente. La función de utilidad asigna un valor a cada posible acción, y el agente elige la acción que maximiza esta utilidad.
 3. **Modelado de Aprendizaje Automático**: Aquí, el agente utiliza datos y experiencia para aprender cómo actuar en diferentes situaciones. Puede utilizar técnicas de aprendizaje supervisado, no supervisado o de refuerzo, dependiendo de la disponibilidad de datos y el problema a resolver.
+4. **Modelado BDI (Belief-Desire-Intention)**: En esta arquitectura, el agente se modela en términos de sus creencias (lo que sabe sobre el mundo), deseos (lo que quiere lograr) e intenciones (lo que planea hacer).
+
+### Arquitecturas de Agentes
+
+La arquitectura de un agente es el diseño subyacente que define la estructura y el funcionamiento del agente. Las arquitecturas comunes incluyen:
+
+1. **Arquitecturas reactivas:** Donde el agente responde directamente a los estímulos sin razonamiento complejo.
+2. **Arquitecturas cognitivas:** Donde el agente tiene capacidades de razonamiento y puede representar y utilizar el conocimiento complejo.
+3. **Arquitecturas híbridas:** Que combinan elementos de arquitecturas reactivas y cognitivas.
 
 ### Herramientas y Lenguajes de Modelado
 
@@ -78,15 +89,7 @@ En resumen, el modelado del comportamiento de agentes es un tema multifacético 
 
 ## **Simulación de Interacción y Comunicación entre Agentes**
 
-Los agentes no operan en un vacío. En muchos entornos y aplicaciones, los agentes necesitan interactuar y comunicarse entre sí para lograr objetivos comunes o competir por recursos. La simulación de estas interacciones y comunicaciones es un área rica y compleja que toca muchos aspectos diferentes del modelado de agentes.
-
-Comencemos con los **Protocolos de Comunicación**. Un protocolo de comunicación es un conjunto de reglas que define cómo se debe realizar la comunicación entre agentes. Esto puede ser tan simple como enviar un mensaje de texto o tan complejo como una negociación multipartita con reglas detalladas sobre quién puede hablar cuándo y sobre qué temas. Los lenguajes de comunicación pueden variar desde simples códigos binarios hasta lenguajes ricos y estructurados, como el Lenguaje de Agente de Conocimiento (KQML). La semántica de los mensajes es igualmente crucial, asegurando que todos los agentes involucrados en la comunicación comprendan el significado y el propósito de los mensajes intercambiados.
-
-La simulación de **Negociación y Cooperación** es otra área vital. Los agentes a menudo tienen que trabajar juntos para lograr un objetivo, o tal vez negociar sobre un recurso limitado. Los algoritmos de negociación pueden ser tan simples como una subasta o tan complejos como la negociación multipartita con múltiples rondas y contraofertas. La simulación de estas interacciones requiere un entendimiento profundo de la teoría de juegos y la teoría de la utilidad, así como una representación clara de las preferencias y restricciones de cada agente. El modelado de confianza es también esencial en este contexto, especialmente en sistemas donde los agentes pueden tener comportamientos egoístas o incluso maliciosos.
-
-Finalmente, llegamos al **Modelado de Conflictos y Resolución**. No todas las interacciones entre agentes serán armoniosas. Habrá momentos en que los agentes entren en conflicto, ya sea por recursos, objetivos contradictorios o simplemente por malentendidos en la comunicación. La simulación de estos conflictos y, lo que es más importante, su resolución, es un área de estudio crítica. Las estrategias de resolución de conflictos pueden variar desde simples reglas de prioridad hasta procesos de mediación complejos que requieren un entendimiento profundo de las necesidades y deseos de todos los agentes involucrados.
-
-En resumen, la simulación de interacción y comunicación entre agentes es una tarea compleja y multifacética que requiere una comprensión profunda de muchos aspectos diferentes de la teoría y la práctica de los sistemas multiagente. Desde el diseño de protocolos de comunicación efectivos hasta la simulación de negociaciones complejas y la resolución de conflictos, esta área ofrece una rica veta de investigación y aplicación práctica que es fundamental para el éxito de los sistemas multiagente en el mundo real.
+La interacción y la comunicación entre agentes (protocolos y lenguajes de comunicación, negociación y cooperación, modelado de confianza y resolución de conflictos) se desarrollan en el temario de [Inteligencia Artificial Distribuida y Sistemas Multiagente](../inteligencia-artificial-distribuida-y-sistemas-multiagente/temario-propuesto.md), del Semestre 4.
 
 ## **Modelado de Entornos y Contextos**
 

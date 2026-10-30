@@ -6,22 +6,58 @@ Esta asignatura es esencial para comprender y aplicar los principios éticos, as
 
 ## Temario Propuesto:
 
-1. **Fundamentos de Ética en Inteligencia Artificial:**
-a. Principios éticos y teorías
-b. Responsabilidad y toma de decisiones
-c. Bias y justicia en algoritmos
-2. **Legislación y Regulación en Inteligencia Artificial:**
-a. Leyes y normativas globales y europeas
-b. Protección de datos y privacidad
-c. Derechos de propiedad intelectual
-3. **Estudios de Caso y Aplicaciones Prácticas:**
-a. Estudios de caso en industrias específicas
-b. Desarrollo responsable de agentes
-c. Consideraciones culturales y sociales
+1. **Fundamentos éticos**
+    - Teorías normativas: consecuencialismo, deontología, ética de la virtud y ética del cuidado
+    - Principios para la IA: beneficencia, no maleficencia, autonomía, justicia y explicabilidad (Floridi y Cowls, 2019)
+    - Directrices: requisitos para una IA fiable del grupo de expertos de la Comisión Europea (2019), Recomendación de la UNESCO (2021) y Principios de la OCDE
+2. **Sesgo, equidad y no discriminación**
+    - Fuentes de sesgo en los datos, la medición, el modelo y el despliegue
+    - Definiciones de equidad (paridad demográfica, igualdad de oportunidades, calibración) y su incompatibilidad (Kleinberg et al., 2016; Chouldechova, 2017)
+    - Mitigación y auditoría: Gender Shades (Buolamwini y Gebru, 2018) y el caso COMPAS
+3. **Transparencia, explicabilidad y responsabilidad**
+    - Documentación: fichas de modelo (Mitchell et al., 2019) y hojas de datos (Gebru et al., 2021)
+    - Supervisión humana, decisiones automatizadas en sistemas multiagente y vacíos de responsabilidad
+    - Responsabilidad civil: la Directiva (UE) 2024/2853 sobre productos defectuosos y el software
+4. **Privacidad y protección de datos**
+    - Principios del RGPD, bases jurídicas y consentimiento; LOPDGDD
+    - Categorías especiales: datos biométricos y de salud (emociones, voz y señales fisiológicas)
+    - Decisiones automatizadas (art. 22 del RGPD) y evaluación de impacto relativa a la protección de datos
+    - Conversaciones con agentes: conservación, anonimización y seudonimización; seguridad de los datos
+5. **El Reglamento Europeo de IA**
+    - Ámbito, proveedores y responsables del despliegue; enfoque basado en el riesgo
+    - Prácticas prohibidas (art. 5), entre ellas el reconocimiento de emociones en el trabajo y en la educación
+    - Sistemas de alto riesgo: gestión de riesgos, datos, registro de actividad, transparencia y supervisión humana
+    - Obligaciones de transparencia (art. 50): informar de que se habla con una IA y marcar los contenidos sintéticos; modelos de uso general
+    - Calendario de aplicación tras el Ómnibus Digital de IA (Reglamento (UE) 2026/1744); supervisión por la Oficina Europea de IA y la AESIA
+    - Panorama internacional: Convenio Marco del Consejo de Europa sobre IA (2024)
+6. **Propiedad intelectual e IA generativa**
+    - Minería de textos y datos y reserva de derechos (Directiva (UE) 2019/790, art. 4)
+    - Autoría y protección de los contenidos generados; obligaciones de derechos de autor de los modelos de uso general
+    - Derechos de imagen y de voz; litigios en curso
+7. **Gobernanza de la IA en las organizaciones**
+    - Marcos de gestión de riesgos: NIST AI RMF, ISO/IEC 23894 e ISO/IEC 42001
+    - Evaluación de impacto en los derechos fundamentales (art. 27 del Reglamento de IA) y auditorías
+    - Normalización y estándares aplicables a los sistemas de IA
+    - Políticas internas, registro de incidentes y trazabilidad
+    - Huella ambiental de la IA
+8. **Ética de los agentes creíbles**
+    - Engaño y revelación: agentes que parecen humanos
+    - Antropomorfismo, dependencia emocional y aplicaciones de compañía
+    - Manipulación, patrones oscuros y narrativas persuasivas; impacto social y cultural de las narrativas generadas
+    - Representación y diversidad en el diseño de personajes; estereotipos
+    - Reconocimiento de emociones y perfilado del comportamiento: validez científica y consentimiento
+    - IA empática: impacto social, menores y usuarios vulnerables; chatbots de salud mental
+9. **Ética de la investigación con personas**
+    - Consentimiento informado, comités de ética y riesgo mínimo
+    - Engaño en los estudios de Mago de Oz y sesiones informativas posteriores
+    - Planes de gestión de datos
+10. **Casos de estudio**
+    - Tay (2016), Replika (2023) y Moffatt contra Air Canada (2024)
+    - Clonación de voz y fraudes con deepfakes
 
 ## Conceptos Clave:
 
-Ética en IA, legislación y regulación, responsabilidad, protección de datos, derechos de propiedad intelectual.
+Ética en IA, equidad, transparencia, responsabilidad, protección de datos, Reglamento Europeo de IA, propiedad intelectual, gobernanza de la IA, ética de los agentes creíbles, ética de la investigación.
 
 **Proyecto:** 
 

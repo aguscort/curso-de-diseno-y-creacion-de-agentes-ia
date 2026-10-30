@@ -6,22 +6,48 @@ Esta asignatura aborda la tecnología esencial detrás de la comunicación verba
 
 ## Temario Propuesto:
 
-1. **Fundamentos del Procesamiento del Lenguaje Natural (PLN):**
-a. Lingüística computacional
-b. Análisis sintáctico y semántico
-c. Algoritmos de PLN
-2. **Tecnologías de Reconocimiento y Síntesis de Voz:**
-a. Reconocimiento de voz
-b. Síntesis de voz
-c. Adaptación y personalización de la voz
-3. **Aplicaciones y Ética en PLN:**
-a. Chatbots y asistentes virtuales
-b. Análisis de sentimientos
-c. Consideraciones éticas y de privacidad
+1. **Lingüística computacional y procesamiento del texto**
+    - Niveles de análisis: morfología, sintaxis, semántica y pragmática
+    - Particularidades del español: morfología flexiva, clíticos y variación dialectal
+    - Normalización y tokenización (BPE, WordPiece, SentencePiece); lematización y etiquetado morfosintáctico con spaCy y Stanza
+2. **Análisis sintáctico y semántico**
+    - Análisis de constituyentes y de dependencias (Universal Dependencies)
+    - Reconocimiento de entidades, etiquetado de roles semánticos y correferencia
+    - Semántica léxica y desambiguación del sentido de las palabras (WordNet)
+3. **Representaciones del significado**
+    - Semántica distribucional: word2vec (Mikolov et al., 2013), GloVe y fastText
+    - Representaciones contextuales: BERT (Devlin et al., 2019); modelos para el español: BETO, MarIA y la familia ALIA
+    - Embeddings de oraciones (Sentence-BERT)
+4. **Tareas de PLN con transformers**
+    - Clasificación de textos y análisis de sentimientos, de polaridad y basado en aspectos, con aprendizaje automático y profundo
+    - Extracción de información, resumen automático y respuesta a preguntas
+    - Ajuste fino frente a uso de LLM mediante prompts
+5. **Sistemas de diálogo**
+    - Arquitectura orientada a tareas: comprensión (intenciones y entidades), seguimiento del estado, política y generación
+    - Plataformas: Rasa y Dialogflow CX
+    - Chatbots de dominio abierto y arquitecturas híbridas con LLM
+    - Derivación de la conversación a un operador humano
+6. **Reconocimiento automático del habla**
+    - Señal de voz, espectrogramas y MFCC
+    - Del modelo acústico clásico (HMM-GMM) al reconocimiento de extremo a extremo (CTC, atención, RNN-T)
+    - Whisper (Radford et al., 2022); tasa de error de palabras; diarización con pyannote
+    - Robustez ante acentos y ruido; reconocimiento del español
+7. **Síntesis de voz**
+    - De la síntesis concatenativa a la neuronal: Tacotron 2, FastSpeech 2 y VITS
+    - Vocoders neuronales: WaveNet y HiFi-GAN
+    - Clonación de voz con pocas muestras; control de la prosodia con SSML
+    - Adaptación y personalización de la voz; voz expresiva
+8. **Agentes de voz**
+    - Arquitectura en cascada (reconocimiento, LLM y síntesis) frente a modelos de voz a voz
+    - Presupuesto de latencia, detección de actividad vocal y detección del fin de turno
+    - Toma de turnos, interrupciones (barge-in) y modelos dúplex completos (Moshi)
+    - Integración telefónica (SIP) y web (WebRTC)
+
+*La emoción en la voz se trata en [Computación Afectiva: Análisis y Modelado de Emociones](computacion-afectiva.md); la generación de respuestas empáticas, en [Inteligencia Artificial Empática](inteligencia-artificial-empatica.md); los grandes modelos de lenguaje, en [Introducción a la IA Generativa](introduccion-a-la-ia-generativa.md).*
 
 ## Conceptos Clave:
 
-Procesamiento del Lenguaje Natural, reconocimiento de voz, síntesis de voz, lingüística computacional, ética en PLN.
+Procesamiento del Lenguaje Natural, reconocimiento de voz, síntesis de voz, lingüística computacional, sistemas de diálogo, agentes de voz.
 
 ## Proyecto Final: 
 
