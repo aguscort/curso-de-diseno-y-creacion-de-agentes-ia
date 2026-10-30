@@ -41,6 +41,3 @@
 
 [Ética y Legislación en Inteligencia Artificial y Agentes Virtuales](content/etica-y-legislacion-en-inteligencia-artificial-y.md)
 
----
-
-Las asignaturas duplicadas del plan anterior se han unificado; la correspondencia está en [UNIFICACION.md](UNIFICACION.md).
